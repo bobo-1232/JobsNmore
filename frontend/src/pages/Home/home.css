@@ -1,0 +1,195 @@
+@keyframes background-pan {
+  from {
+    background-position: 0% center;
+  }
+
+  to {
+    background-position: -200% center;
+  }
+}
+
+body.home {
+  animation: background-pan 5s linear infinite;
+  background: linear-gradient(to right, #ade8f4, #48cae4, #90e0ef, #ade8f4);
+  background-size: 200%;
+  min-height: 100vh;
+  width: 100vw;
+  margin: 0px;
+}
+
+#logo-center {
+  position: absolute;
+  background-image: url("../../images/logos/png/logo-no-background.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 40%;
+  height: 40%;
+  margin: 0px;
+  z-index: 3;
+  top: -20%;
+  left: 50%;
+  /*place item the the left hand side of label*/
+  transform: translate(-50%, -50%);
+}
+
+#container {
+  left: 0;
+  right: 0;
+  transform: translateY(50%);
+  position: relative;
+  display: grid;
+  place-items: center;
+  padding-bottom: 4rem;
+}
+
+@keyframes textFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#box {
+  aspect-ratio: 1.618;
+  width: 80vmin;
+  position: relative;
+}
+
+#box > .shape {
+  position: absolute;
+  transition: border-radius, top, left, height, width;
+  transition-duration: 750ms;
+  transition-timing-function: ease-in-out;
+}
+
+#shapeLabel {
+  font-size: 9vmin;
+  color: #f8f7ff;
+  position: absolute;
+  margin: 0px;
+  z-index: 3;
+  top: -10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.shapeDescription {
+  font-size: 3.5vmin;
+  color: #f8f7ff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  text-align: center;
+}
+
+#box > .shape:nth-child(1) {
+  background-color: #03045e;
+  z-index: 1;
+  left: 0%;
+  top: 0%;
+  height: 45%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(2) {
+  background-color: #023e8a;
+  z-index: 2;
+  left: 35%;
+  top: 0%;
+  height: 45%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(3) {
+  background-color: #0077b6;
+  z-index: 1;
+  left: 70%;
+  top: 0%;
+  height: 45%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(4) {
+  background-color: #4895ef;
+  z-index: 2;
+  left: 0%;
+  top: 50%;
+  height: 45%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(5) {
+  background-color: #0096c7;
+  z-index: 2;
+  left: 35%;
+  top: 50%;
+  height: 45%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(6) {
+  background-color: #00b4d8;
+  z-index: 2;
+  left: 70%;
+  top: 50%;
+  height: 45%;
+  width: 30%;
+}
+
+/* Thanks to: http://ianlunn.github.io/Hover/ */
+.hvr-reveal {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  overflow: hidden;
+}
+.hvr-reveal:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-color: #f8f7ff;
+  border-style: solid;
+  border-width: 0;
+  -webkit-transition-property: border-width;
+  transition-property: border-width;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+.hvr-reveal:hover:before,
+.hvr-reveal:focus:before,
+.hvr-reveal:active:before {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  border-width: 4px;
+}
+
+.clicked {
+  z-index: 3 !important;
+  left: 0% !important;
+  top: 0% !important;
+  height: 90% !important;
+  width: 100% !important;
+  cursor: pointer !important;
+}
+
+.clicked > .shapeDescription {
+  animation: textFadeIn 1s ease-in;
+}
+.clicked ~ #shapeLabel {
+  animation: textFadeIn 1s ease-in;
+}

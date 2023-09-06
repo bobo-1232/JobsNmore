@@ -1,0 +1,39 @@
+@keyframes background-pan {
+  from {
+    background-position: 0% center;
+  }
+
+  to {
+    background-position: -200% center;
+  }
+}
+
+.bg-gradient2 {
+  animation: background-pan 5s linear infinite;
+  background: linear-gradient(to right, #f8f7ff, #caf0f8, #f8f7ff);
+  background-size: 200%;
+  width: 100vw;
+  margin: 0px;
+}
+
+.bg-gradient3 {
+  background: linear-gradient(to right, #ade8f4, #caf0f8, #f8f7ff, #00b4d8);
+  background-size: 200%;
+  width: 100vw;
+  margin: 0px;
+}
+.buttondiv {
+  text-align: center;
+  margin: 2rem;
+}
+
+.buttondiv .btn {
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+#bottom {
+  height: 2rem;
+  width: 100%;
+  background-color: #0096c7;
+}
