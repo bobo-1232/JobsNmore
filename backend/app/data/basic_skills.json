@@ -1,0 +1,1471 @@
+[
+  {
+    "id": "2.A.1.b",
+    "name": "Active Listening",
+    "description": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3021.00",
+      "41-3031.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 78
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 74
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "15-1299.08": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2112.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "17-2112.03": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2071.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.b",
+    "name": "Coordination",
+    "description": "Adjusting actions in relation to others' actions.",
+    "onetcode": [
+      "11-1021.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "11-3031.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": false,
+          "value": 47
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.A.2.d",
+    "name": "Monitoring",
+    "description": "Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "15-1211.00",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2071.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 58
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "17-2112.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "17-2112.03": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2071.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.a",
+    "name": "Social Perceptiveness",
+    "description": "Being aware of others' reactions and understanding why they react as they do.",
+    "onetcode": [
+      "11-1021.00",
+      "13-1111.00",
+      "41-3021.00",
+      "41-3031.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 78
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.A.2.a",
+    "name": "Critical Thinking",
+    "description": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3021.00",
+      "41-3031.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 78
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "15-1299.08": {
+          "scale": "Importance",
+          "important": true,
+          "value": 78
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "17-2112.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "17-2112.03": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "17-2141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2071.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.5.a",
+    "name": "Time Management",
+    "description": "Managing one's own time and the time of others.",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "41-3021.00",
+      "31-1121.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.d",
+    "name": "Negotiation",
+    "description": "Bringing others together and trying to reconcile differences.",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "41-3021.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.A.2.b",
+    "name": "Active Learning",
+    "description": "Understanding the implications of new information for both current and future problem-solving and decision-making.",
+    "onetcode": [
+      "11-1021.00",
+      "13-2011.00",
+      "41-3031.00",
+      "13-2041.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "score": [
+      {
+        "11-1021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 58
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": false,
+          "value": 47
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "15-1299.08": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "17-2112.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 56
+        }
+      },
+      {
+        "17-2141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "17-2071.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.f",
+    "name": "Service Orientation",
+    "description": "Actively looking for ways to help people.",
+    "onetcode": [
+      "43-4051.00",
+      "43-6014.00",
+      "41-3021.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00"
+    ],
+    "score": [
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "31-9092.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.2.i",
+    "name": "Complex Problem Solving",
+    "description": "Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.",
+    "onetcode": [
+      "43-4051.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2041.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "score": [
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "43-3031.00": {
+          "scale": "Importance",
+          "important": false,
+          "value": 47
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 61
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "15-1299.08": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "17-2112.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2112.03": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "17-2141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "17-2071.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.c",
+    "name": "Persuasion",
+    "description": "Persuading others to change their minds or behavior.",
+    "onetcode": [
+      "43-4051.00",
+      "41-3021.00",
+      "41-3031.00",
+      "31-1121.00"
+    ],
+    "score": [
+      {
+        "43-4051.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "41-3021.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.4.e",
+    "name": "Judgment and Decision Making",
+    "description": "Considering the relative costs and benefits of potential actions to choose the most appropriate one.",
+    "onetcode": [
+      "43-6014.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2041.00",
+      "29-1141.00",
+      "31-1131.00",
+      "29-2052.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.03",
+      "17-2141.00"
+    ],
+    "score": [
+      {
+        "43-6014.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      },
+      {
+        "13-1111.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 75
+        }
+      },
+      {
+        "13-2011.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 63
+        }
+      },
+      {
+        "11-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "41-3031.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 66
+        }
+      },
+      {
+        "13-2041.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "29-1141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "31-1131.00": {
+          "scale": "Importance",
+          "important": false,
+          "value": 47
+        }
+      },
+      {
+        "29-2052.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "13-1161.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "15-1211.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "15-1212.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 60
+        }
+      },
+      {
+        "17-2112.01": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      },
+      {
+        "17-2112.03": {
+          "scale": "Importance",
+          "important": true,
+          "value": 72
+        }
+      },
+      {
+        "17-2141.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 69
+        }
+      }
+    ]
+  },
+  {
+    "id": "2.B.1.e",
+    "name": "Instructing",
+    "description": "Teaching others how to do something.",
+    "onetcode": [
+      "31-1121.00",
+      "31-9091.00",
+      "15-1232.00"
+    ],
+    "score": [
+      {
+        "31-1121.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "31-9091.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 53
+        }
+      },
+      {
+        "15-1232.00": {
+          "scale": "Importance",
+          "important": true,
+          "value": 50
+        }
+      }
+    ]
+  }
+]

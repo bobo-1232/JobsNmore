@@ -1,0 +1,90 @@
+{
+  "Team": [
+    {
+      "Name": "Willy Resendiz",
+      "Role": "Full Stack",
+      "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/willy.png",
+      "About": "I am a third-year student at the University of Texas at Austin, majoring in Management Information Systems and pursuing a certificate in Computer Science.",
+      "Username": "wresendiz",
+      "Email": "wresendiz@utexas.edu",
+      "Test": 3
+    },
+    {
+      "Name": "Javier Ramirez",
+      "Role": "Backend",
+      "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/javier.jpg",
+      "About": "I am third-year student at the University of Texas at Austin, studying mechanical engineering with a certificate in Computer Science.",
+      "Username": "javier.ramirez5",
+      "Email": "javier.ramirez5@utexas.edu",
+      "Email2": "javierr8906@gmail.com",
+      "Test": 3
+    },
+    {
+      "Name": "Cade Taylor",
+      "Role": "Backend",
+      "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/cade.jpg",
+      "About": "I am a fourth-year student at the University of Texas at Austin, studying Mathematics with a certificate in Computer Science.",
+      "Username": "cadetaylor01",
+      "Email": "cade.taylor01@gmail.com",
+      "Test": 2
+    },
+    {
+      "Name": "Jesus Munoz-Castaneda",
+      "Role": "Backend",
+      "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/jesus.jpg",
+      "About": "A fourth-year chemistry student with a certificate in computer science at the University of Texas at Austin.",
+      "Username": "jesusamc",
+      "Email": "jesusamc@utexas.edu",
+      "Test": 3
+    }
+  ],
+  "Stats": ["Total Commits", "Total Issues", "Total Unit Tests"],
+  "Repos": [
+    {
+      "Issue Tracker": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/boards"
+    },
+    {
+      "Repo": "https://gitlab.com/javier.ramirez5/cs331e-idb"
+    },
+    {
+      "Wiki": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/wikis/JobsNMore"
+    }
+  ],
+  "Extra": [
+    {
+      "Presentation": "https://speakerdeck.com/jesusamc/jobsnmore-team-9"
+    },
+    {
+      "API Doc": "https://documenter.getpostman.com/view/25798655/2s93RZMpTL"
+    }
+  ],
+  "Data": [
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/bls.png": "https://rapidapi.com/community/api/bls-public-data/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/onet.png": "https://services.onetcenter.org/v1.9/reference/mnm/career/state/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/careeronestop.png": "https://api.careeronestop.org/api-explorer/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/roadgoat.png": "https://www.roadgoat.com/business/cities-api"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/gitlab.png": "https://docs.gitlab.com/ee/api/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/youtube.png": "https://developers.google.com/youtube/v3/"
+    }
+  ],
+  "Tools": [
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/bootstrap.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/gitlab.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/pytest.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/requests.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/flask.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/slack.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/react.png"
+  ]
+}

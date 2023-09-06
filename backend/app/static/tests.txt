@@ -1,0 +1,20 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.0, pytest-7.2.1, pluggy-1.0.0 -- C:\backend\venv\AppData\Local\Programs\Python\Python311\python.exe
+cachedir: .pytest_cache
+rootdir: C:\cs331e-idb\backend\app
+plugins: anyio-3.6.2
+collecting ... collected 11 items
+
+tests.py::test_request_example PASSED                                    [  9%]
+tests.py::test_db_inserting_course_incorrect PASSED                      [ 18%]
+tests.py::test_updating_industry PASSED                                  [ 27%]
+tests.py::test_db_inserting_course PASSED                                [ 36%]
+tests.py::test_db_querying_course PASSED                                 [ 45%]
+tests.py::test_db_vartype_course PASSED                                  [ 54%]
+tests.py::test_db_inserting_location PASSED                              [ 63%]
+tests.py::test_db_queryingType_location PASSED                           [ 72%]
+tests.py::test_postgres_query_location PASSED                            [ 81%]
+tests.py::test_adding_course PASSED                                      [ 90%]
+tests.py::test_postgres_query_course PASSED                              [100%]
+
+============================= 11 passed in 3.50s ==============================

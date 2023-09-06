@@ -1,0 +1,6421 @@
+[
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-1021.00",
+    "name": "Deacom ERP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-1021.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-1021.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-1021.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-4051.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-4051.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-4051.00",
+    "name": "Sage MAS 200 ERP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-4051.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-6014.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-6014.00",
+    "name": "people@work",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-6014.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-3031.00",
+    "name": "AcornSystems Corporate Performance Management",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-3031.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-3031.00",
+    "name": "Sage 100 ERP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "43-3031.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1111.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1111.00",
+    "name": "NetSuite ERP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1111.00",
+    "name": "Oracle Hyperion",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1111.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1082.00",
+    "name": "NetSuite ERP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1082.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-1082.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2011.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2011.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2011.00",
+    "name": "Sage Platinum for Windows PFW",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2011.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-3031.00",
+    "name": "Oracle Fusion Applications",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-3031.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "11-3031.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3021.00",
+    "name": "Advantage Information Systems The Agency Advantage",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3021.00",
+    "name": "AMS Services AMS Sagitta",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3021.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3021.00",
+    "name": "Vulcan Solutions Vulcan Insurance",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft Dynamics GP",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3031.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3031.00",
+    "name": "Oracle PeopleSoft Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "41-3031.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2051.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2051.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2051.00",
+    "name": "SSA Global Infinium Financial Management",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2041.00",
+    "name": "Oracle JD Edwards EnterpriseOne",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "13-2041.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "31-1121.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "29-2052.00",
+    "name": "Pharmacy management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1252.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1252.00",
+    "name": "Oracle Fusion Applications",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1252.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1252.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1232.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1232.00",
+    "name": "Oracle Fusion Applications",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1232.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1232.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1211.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1211.00",
+    "name": "Oracle Fusion Applications",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1211.00",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1211.00",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1299.08",
+    "name": "Clarity Systems IBM Clarity",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1299.08",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1299.08",
+    "name": "Oracle PeopleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "15-1299.08",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "17-2112.03",
+    "name": "Product lifecycle management PLM software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231602,
+    "skill_name": "Enterprise resource planning ERP software",
+    "onetcode": "17-2112.03",
+    "name": "SAP software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-1021.00",
+    "name": "Airtable",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-1021.00",
+    "name": "Amazon Web Services AWS software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-1021.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-1021.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-4051.00",
+    "name": "Airtable",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-4051.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-4051.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-4051.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-6014.00",
+    "name": "Airtable",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-6014.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-6014.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-3031.00",
+    "name": "Database software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-3031.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-3031.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "43-3031.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1111.00",
+    "name": "Airtable",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1111.00",
+    "name": "Amazon Elastic Compute Cloud EC2",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1111.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1111.00",
+    "name": "Transact-SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2011.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2011.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2011.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2011.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-3031.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-3031.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "11-3031.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "41-3031.00",
+    "name": "Database management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "41-3031.00",
+    "name": "FileMaker Pro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "41-3031.00",
+    "name": "Web-based information systems",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2051.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2051.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2051.00",
+    "name": "Yardi software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-2041.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-1121.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-1141.00",
+    "name": "Data entry software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-1141.00",
+    "name": "Database software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-1141.00",
+    "name": "FileMaker Pro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-1131.00",
+    "name": "Health information database software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-9092.00",
+    "name": "Data entry software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-9092.00",
+    "name": "Database software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-2052.00",
+    "name": "Database software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "29-2052.00",
+    "name": "Drug compatibility software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1252.00",
+    "name": "Airtable",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1252.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1252.00",
+    "name": "GraphQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1252.00",
+    "name": "ServiceNow",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1161.01",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1161.01",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1161.01",
+    "name": "Online databases",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "13-1161.01",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1232.00",
+    "name": "Amazon Redshift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1232.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1232.00",
+    "name": "ServiceNow",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1232.00",
+    "name": "Transact-SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1211.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1211.00",
+    "name": "IBM DB2",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1211.00",
+    "name": "ServiceNow",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1211.00",
+    "name": "Transact-SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1299.08",
+    "name": "Amazon Elastic Compute Cloud EC2",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1299.08",
+    "name": "IBM DB2",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1299.08",
+    "name": "ServiceNow",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1299.08",
+    "name": "Transact-SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1212.00",
+    "name": "Amazon Elastic Compute Cloud EC2",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1212.00",
+    "name": "Amazon Redshift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1212.00",
+    "name": "Amazon Web Services AWS software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-1212.00",
+    "name": "Blackboard software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft SQL Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "17-2112.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "17-2112.03",
+    "name": "FileMaker Pro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "17-2112.03",
+    "name": "Microsoft Access",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-2051.00",
+    "name": "Amazon Web Services AWS software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-2051.00",
+    "name": "PySpark",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-2051.00",
+    "name": "PyTorch",
+    "hot_technology": false
+  },
+  {
+    "id": 43232306,
+    "skill_name": "Data base user interface and query software",
+    "onetcode": "15-2051.00",
+    "name": "Structured query language SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "11-1021.00",
+    "name": "Act!",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "11-1021.00",
+    "name": "Salesforce software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "11-1021.00",
+    "name": "Sugar CRM",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "11-1021.00",
+    "name": "vtiger CRM",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "43-4051.00",
+    "name": "Blackbaud The Raiser's Edge",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "43-4051.00",
+    "name": "Parature eTicket",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "43-4051.00",
+    "name": "Salesforce software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "43-4051.00",
+    "name": "Telemation e-CRM",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3021.00",
+    "name": "Allied Financial Software Act4Advisors",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3021.00",
+    "name": "Applied Systems Vision",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3021.00",
+    "name": "Insurance Technologies ForeSight Enterprise",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3021.00",
+    "name": "Tangle S Creations Your Insurance Office",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3031.00",
+    "name": "CSI Complex Systems ClientTrade",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft Dynamics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3031.00",
+    "name": "Oracle Siebel CRM",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "41-3031.00",
+    "name": "Salesforce software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "31-1121.00",
+    "name": "Salesforce software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "13-1161.01",
+    "name": "Customer information databases",
+    "hot_technology": false
+  },
+  {
+    "id": 43232303,
+    "skill_name": "Customer relationship management CRM software",
+    "onetcode": "13-1161.01",
+    "name": "Oracle Eloqua",
+    "hot_technology": false
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "11-1021.00",
+    "name": "Apple macOS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "11-1021.00",
+    "name": "Microsoft Windows",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "11-1021.00",
+    "name": "Oracle Solaris",
+    "hot_technology": false
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "11-1021.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "43-6014.00",
+    "name": "Apple macOS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "43-6014.00",
+    "name": "Linux",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft Windows",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "43-6014.00",
+    "name": "Oracle Solaris",
+    "hot_technology": false
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "13-1111.00",
+    "name": "Apple macOS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "13-1111.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "13-1111.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "13-1111.00",
+    "name": "UNIX",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "41-3031.00",
+    "name": "Linux",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft Windows",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "41-3031.00",
+    "name": "UNIX",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "31-1121.00",
+    "name": "Linux",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Windows",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "31-1121.00",
+    "name": "UNIX",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Windows Vista Business",
+    "hot_technology": false
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Windows XP Professional",
+    "hot_technology": false
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1252.00",
+    "name": "Apple iOS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1252.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1252.00",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1252.00",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1232.00",
+    "name": "Apple iOS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1232.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1232.00",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1232.00",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1211.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1211.00",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1211.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1211.00",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1299.08",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1299.08",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1299.08",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1299.08",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1212.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1212.00",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1212.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-1212.00",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2112.00",
+    "name": "Linux",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2112.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2112.00",
+    "name": "UNIX Shell",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2071.00",
+    "name": "Bash",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2071.00",
+    "name": "Microsoft Windows Server",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2071.00",
+    "name": "Shell script",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "17-2071.00",
+    "name": "UNIX",
+    "hot_technology": true
+  },
+  {
+    "id": 43233004,
+    "skill_name": "Operating system software",
+    "onetcode": "15-2051.00",
+    "name": "Keras",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-1021.00",
+    "name": "IBM Cognos Impromptu",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-1021.00",
+    "name": "MicroStrategy",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-1021.00",
+    "name": "Qlik Tech QlikView",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-1021.00",
+    "name": "Tableau",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1111.00",
+    "name": "Alteryx software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1111.00",
+    "name": "Apache Spark",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1111.00",
+    "name": "MicroStrategy",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1111.00",
+    "name": "Qlik Tech QlikView",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1082.00",
+    "name": "IBM Cognos Impromptu",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1082.00",
+    "name": "Oracle Business Intelligence Enterprise Edition",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1082.00",
+    "name": "Qlik Tech QlikView",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1082.00",
+    "name": "Tableau",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-3031.00",
+    "name": "IBM Cognos Impromptu",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-3031.00",
+    "name": "MicroStrategy",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-3031.00",
+    "name": "Qlik Tech QlikView",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "11-3031.00",
+    "name": "Tableau",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Alteryx software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-2051.00",
+    "name": "MicroStrategy",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Qlik Tech QlikView",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Tableau",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1161.01",
+    "name": "BrightEdge",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1161.01",
+    "name": "Conductor Searchlight",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1161.01",
+    "name": "IBM Digital Analytics",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "13-1161.01",
+    "name": "Searchmetrics Suite",
+    "hot_technology": false
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "15-2051.00",
+    "name": "Apache Spark",
+    "hot_technology": true
+  },
+  {
+    "id": 43232314,
+    "skill_name": "Business intelligence and data analysis software",
+    "onetcode": "15-2051.00",
+    "name": "Tableau",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "11-1021.00",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "11-1021.00",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "11-1021.00",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "11-1021.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-1111.00",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-1111.00",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-1111.00",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-1111.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2011.00",
+    "name": "Guidance Software EnCase Enterprise",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2011.00",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2011.00",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2011.00",
+    "name": "WizSoft WizRule",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2051.00",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2051.00",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2051.00",
+    "name": "StataCorp Stata",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "13-2051.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.01",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.01",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.01",
+    "name": "Statistical software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.01",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.00",
+    "name": "Finite element method FEM software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.00",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.00",
+    "name": "Workcell simulation software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.03",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2112.03",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2141.00",
+    "name": "MAYA Nastran",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2141.00",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2141.00",
+    "name": "ReliaSoft Weibull++ 6",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2141.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2071.00",
+    "name": "MathWorks Simulink",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2071.00",
+    "name": "Minitab",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2071.00",
+    "name": "Powersim PSIM",
+    "hot_technology": false
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "17-2071.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "15-2051.00",
+    "name": "IBM SPSS Statistics",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "15-2051.00",
+    "name": "SAS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232605,
+    "skill_name": "Analytical or scientific software",
+    "onetcode": "15-2051.00",
+    "name": "The MathWorks MATLAB",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-1021.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-1021.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-1021.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-1021.00",
+    "name": "Mozilla Thunderbird",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "43-4051.00",
+    "name": "Astute Solutions PowerCenter",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "43-4051.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "43-4051.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "43-4051.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1082.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-3031.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "41-3021.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "41-3031.00",
+    "name": "Email software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "41-3031.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-2051.00",
+    "name": "Email software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-2051.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "29-1141.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-1131.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-9092.00",
+    "name": "Email software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "29-2052.00",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "31-9091.00",
+    "name": "Email software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1161.01",
+    "name": "Email software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1161.01",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "13-1161.01",
+    "name": "Yahoo! Email",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "17-2112.03",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "17-2112.03",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "17-2112.03",
+    "name": "Microsoft Outlook",
+    "hot_technology": true
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "17-2141.00",
+    "name": "IBM Notes",
+    "hot_technology": false
+  },
+  {
+    "id": 43233501,
+    "skill_name": "Electronic mail software",
+    "onetcode": "17-2141.00",
+    "name": "Microsoft Exchange",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-1021.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-1021.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-1021.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-1021.00",
+    "name": "Tax software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-4051.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-4051.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-4051.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-4051.00",
+    "name": "Tax software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-6014.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-6014.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-6014.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-6014.00",
+    "name": "Tax software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-3031.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-3031.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-3031.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "43-3031.00",
+    "name": "Tax software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2011.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2011.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2011.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2011.00",
+    "name": "Summit Software Summit Biofuels Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-3031.00",
+    "name": "Accounts receivable software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-3031.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-3031.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "11-3031.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "41-3031.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "41-3031.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2051.00",
+    "name": "Fund accounting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2051.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2051.00",
+    "name": "Sage 50 Accounting",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "13-2051.00",
+    "name": "Tax software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "31-1131.00",
+    "name": "Billing software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "31-9092.00",
+    "name": "Billing software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "31-9092.00",
+    "name": "Bookkeeping software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "31-9092.00",
+    "name": "Intuit QuickBooks",
+    "hot_technology": true
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "29-2052.00",
+    "name": "Billing and reimbursement software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231601,
+    "skill_name": "Accounting software",
+    "onetcode": "31-9091.00",
+    "name": "Quicken",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "11-1021.00",
+    "name": "Apple Final Cut Pro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "11-1021.00",
+    "name": "Flipgrid",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "11-1021.00",
+    "name": "Screencastify",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "11-1021.00",
+    "name": "YouTube",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "13-1082.00",
+    "name": "Flipgrid",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "13-1082.00",
+    "name": "Loom",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "13-1082.00",
+    "name": "Screencastify",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "13-1082.00",
+    "name": "YouTube",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "41-3021.00",
+    "name": "Adobe Systems Adobe After Effects",
+    "hot_technology": true
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "41-3021.00",
+    "name": "Apple Final Cut Pro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "41-3021.00",
+    "name": "YouTube",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "29-1141.00",
+    "name": "YouTube",
+    "hot_technology": false
+  },
+  {
+    "id": 43232103,
+    "skill_name": "Video creation and editing software",
+    "onetcode": "31-1131.00",
+    "name": "YouTube",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "11-1021.00",
+    "name": "Dropbox",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "11-1021.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "11-1021.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "11-1021.00",
+    "name": "Slack",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-4051.00",
+    "name": "Dropbox",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-4051.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-4051.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-4051.00",
+    "name": "Slack",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-6014.00",
+    "name": "Dropbox",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-6014.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-6014.00",
+    "name": "Slack",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-3031.00",
+    "name": "Dropbox",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-3031.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "43-3031.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "13-1082.00",
+    "name": "Dropbox",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "13-1082.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "13-1082.00",
+    "name": "Slack",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "29-1141.00",
+    "name": "Google Drive",
+    "hot_technology": false
+  },
+  {
+    "id": 43233513,
+    "skill_name": "Cloud-based data access and sharing software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft SharePoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-4051.00",
+    "name": "Healthcare common procedure coding system HCPCS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-4051.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-4051.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-4051.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-3031.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-3031.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-3031.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "43-3031.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-1111.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-1111.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-1111.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-1111.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-2011.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-2011.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-2011.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "13-2011.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "41-3021.00",
+    "name": "Healthcare common procedure coding system HCPCS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "41-3021.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-1121.00",
+    "name": "AIGHD OASIS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-1141.00",
+    "name": "eClinicalWorks EHR software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-1141.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-1141.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-1141.00",
+    "name": "Siemens SIENET Sky",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-1131.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-1131.00",
+    "name": "Medical procedure coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-1131.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-1131.00",
+    "name": "Telemetry software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9092.00",
+    "name": "eClinicalWorks EHR software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9092.00",
+    "name": "Epic Systems",
+    "hot_technology": true
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9092.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9092.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-2052.00",
+    "name": "Compounder software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-2052.00",
+    "name": "Medical condition coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-2052.00",
+    "name": "MEDITECH software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "29-2052.00",
+    "name": "Pharmaceutical software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9091.00",
+    "name": "Henry Schein Dentrix",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9091.00",
+    "name": "Kodak Dental Systems Kodak SOFTDENT Practice management software PMS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9091.00",
+    "name": "Patterson Dental Supply Patterson EagleSoft",
+    "hot_technology": false
+  },
+  {
+    "id": 43232610,
+    "skill_name": "Medical software",
+    "onetcode": "31-9091.00",
+    "name": "The Systems Workplace TDOCS",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "FaceTime",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "Google Meet",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "LogMeIn GoToMeeting",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "Zoom",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-6014.00",
+    "name": "Cisco Webex",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-6014.00",
+    "name": "Google Meet",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-6014.00",
+    "name": "LogMeIn GoToMeeting",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "43-6014.00",
+    "name": "Zoom",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "13-1082.00",
+    "name": "Cisco Webex",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "13-1082.00",
+    "name": "Google Meet",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "13-1082.00",
+    "name": "LogMeIn GoToMeeting",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "13-1082.00",
+    "name": "Zoom",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "41-3021.00",
+    "name": "LogMeIn GoToMeeting",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "41-3021.00",
+    "name": "Zoom",
+    "hot_technology": true
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "31-1121.00",
+    "name": "FaceTime",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "29-1141.00",
+    "name": "FaceTime",
+    "hot_technology": false
+  },
+  {
+    "id": 43233502,
+    "skill_name": "Video conferencing software",
+    "onetcode": "31-1131.00",
+    "name": "FaceTime",
+    "hot_technology": false
+  },
+  {
+    "id": 43233503,
+    "skill_name": "Network conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "Active Data Online WebChat",
+    "hot_technology": false
+  },
+  {
+    "id": 43233503,
+    "skill_name": "Network conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "eStara Softphone",
+    "hot_technology": false
+  },
+  {
+    "id": 43233503,
+    "skill_name": "Network conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "Parature eRealtime",
+    "hot_technology": false
+  },
+  {
+    "id": 43233503,
+    "skill_name": "Network conferencing software",
+    "onetcode": "43-4051.00",
+    "name": "Timpani Chat",
+    "hot_technology": false
+  },
+  {
+    "id": 43233503,
+    "skill_name": "Network conferencing software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Office SharePoint Server MOSS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-4051.00",
+    "name": "Facebook",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-4051.00",
+    "name": "Google Sites",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-4051.00",
+    "name": "LinkedIn",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-4051.00",
+    "name": "Social media sites",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-6014.00",
+    "name": "Adobe Systems Adobe Dreamweaver",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-6014.00",
+    "name": "Facebook",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-6014.00",
+    "name": "Google Sites",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "43-6014.00",
+    "name": "LinkedIn",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "41-3021.00",
+    "name": "Facebook",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "41-3021.00",
+    "name": "LinkedIn",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "13-1161.01",
+    "name": "Adobe Systems Adobe Dreamweaver",
+    "hot_technology": false
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "13-1161.01",
+    "name": "Facebook",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "13-1161.01",
+    "name": "LinkedIn",
+    "hot_technology": true
+  },
+  {
+    "id": 43232107,
+    "skill_name": "Web page creation and editing software",
+    "onetcode": "13-1161.01",
+    "name": "WordPress",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "43-6014.00",
+    "name": "Apache Cassandra",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "43-6014.00",
+    "name": "Apache Hadoop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "43-6014.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "43-6014.00",
+    "name": "Teradata Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1111.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1111.00",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1111.00",
+    "name": "MongoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1111.00",
+    "name": "Oracle PL/SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1252.00",
+    "name": "Amazon DynamoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1252.00",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1252.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1252.00",
+    "name": "Redis",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1161.01",
+    "name": "Apache Solr",
+    "hot_technology": false
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1161.01",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "13-1161.01",
+    "name": "MySQL",
+    "hot_technology": false
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1232.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1232.00",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1232.00",
+    "name": "MongoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1232.00",
+    "name": "Oracle PL/SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1211.00",
+    "name": "Amazon DynamoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1211.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1211.00",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1211.00",
+    "name": "Oracle Database",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1299.08",
+    "name": "Amazon DynamoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1299.08",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1299.08",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1299.08",
+    "name": "Redis",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1212.00",
+    "name": "Amazon DynamoDB",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1212.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1212.00",
+    "name": "Elasticsearch",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-1212.00",
+    "name": "Oracle PL/SQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-2051.00",
+    "name": "Apache Hadoop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-2051.00",
+    "name": "Apache Hive",
+    "hot_technology": true
+  },
+  {
+    "id": 43232304,
+    "skill_name": "Data base management system software",
+    "onetcode": "15-2051.00",
+    "name": "NoSQL",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "43-6014.00",
+    "name": "3M Post-it App",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "43-6014.00",
+    "name": "Google Docs",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft OneNote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "43-6014.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-1082.00",
+    "name": "3M Post-it App",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-1082.00",
+    "name": "Google Docs",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft OneNote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2011.00",
+    "name": "Google Docs",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2011.00",
+    "name": "Microsoft OneNote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2011.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2051.00",
+    "name": "Google Docs",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft OneNote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "13-2051.00",
+    "name": "Report generation software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "29-1141.00",
+    "name": "Google Docs",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "31-1131.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "29-2052.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "17-2071.00",
+    "name": "Microsoft OneNote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232104,
+    "skill_name": "Word processing software",
+    "onetcode": "17-2071.00",
+    "name": "Microsoft Word",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "43-6014.00",
+    "name": "Adobe Systems Adobe Creative Cloud software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "43-6014.00",
+    "name": "Adobe Systems Adobe Illustrator",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "43-6014.00",
+    "name": "Adobe Systems Adobe Photoshop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "43-6014.00",
+    "name": "SmugMug Flickr",
+    "hot_technology": false
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "13-1161.01",
+    "name": "Adobe Systems Adobe Photoshop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "13-1161.01",
+    "name": "JamBoard",
+    "hot_technology": false
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "15-1232.00",
+    "name": "Adobe Systems Adobe Creative Cloud software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "15-1232.00",
+    "name": "Adobe Systems Adobe Illustrator",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "15-1232.00",
+    "name": "Adobe Systems Adobe Photoshop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "15-1232.00",
+    "name": "Trimble SketchUp Pro",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2112.01",
+    "name": "Adobe Systems Adobe Fireworks",
+    "hot_technology": false
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2112.01",
+    "name": "Adobe Systems Adobe Illustrator",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2112.01",
+    "name": "Adobe Systems Adobe Photoshop",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2141.00",
+    "name": "Adobe Systems Adobe Fireworks",
+    "hot_technology": false
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2141.00",
+    "name": "Adobe Systems Adobe Illustrator",
+    "hot_technology": true
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2141.00",
+    "name": "SmugMug Flickr",
+    "hot_technology": false
+  },
+  {
+    "id": 43232102,
+    "skill_name": "Graphics or photo imaging software",
+    "onetcode": "17-2141.00",
+    "name": "Trimble SketchUp Pro",
+    "hot_technology": true
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "43-3031.00",
+    "name": "Delphi Technology",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "43-3031.00",
+    "name": "Oracle E-Business Suite Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "43-3031.00",
+    "name": "RSM McGladrey Advanced Practice Solutions Paperless Audit",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "43-3031.00",
+    "name": "RSM McGladrey Auditor Assistant",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2011.00",
+    "name": "Delphi Technology",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2011.00",
+    "name": "Oracle E-Business Suite Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2011.00",
+    "name": "TopCAATs",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2011.00",
+    "name": "Tropics workers' compensation software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "11-3031.00",
+    "name": "ARES Corporation PRISM Project Estimator",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "11-3031.00",
+    "name": "Credit management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "11-3031.00",
+    "name": "Delphi Technology",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "11-3031.00",
+    "name": "Oracle E-Business Suite Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3021.00",
+    "name": "Cygnus Software IncomeMax",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3021.00",
+    "name": "Insurance analysis software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3021.00",
+    "name": "Insurance rating software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3021.00",
+    "name": "Underwriting software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3031.00",
+    "name": "Bloomberg Professional",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3031.00",
+    "name": "Oracle E-Business Suite Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3031.00",
+    "name": "Triple Point Commodity XL",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "41-3031.00",
+    "name": "Web-based trading systems",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Delphi Technology",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Moody's RiskCalc",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Oracle E-Business Suite Financials",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2051.00",
+    "name": "Wolfram Research Mathematica UnRisk Pricing Engine",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2041.00",
+    "name": "CGI-AMS Strata",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2041.00",
+    "name": "Experian Quest",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2041.00",
+    "name": "Fair Isaac Capstone Decision Manager",
+    "hot_technology": false
+  },
+  {
+    "id": 43231604,
+    "skill_name": "Financial analysis software",
+    "onetcode": "13-2041.00",
+    "name": "Moody's KMV Risk Advisor",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "43-3031.00",
+    "name": "Corporate Responsibility System Technologies Limited CRSTL Compliance Positioning System",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "43-3031.00",
+    "name": "Financial compliance software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "43-3031.00",
+    "name": "Intrax ProcedureNet",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "43-3031.00",
+    "name": "Sage EDP Payroll Tax",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "13-2011.00",
+    "name": "Intrax ProcedureNet",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "13-2011.00",
+    "name": "Sage HandiSoft HandiLedger",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "13-2011.00",
+    "name": "Tax compliance property tax management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232606,
+    "skill_name": "Compliance software",
+    "onetcode": "13-2011.00",
+    "name": "TrendTracker Compliance Solution",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "43-3031.00",
+    "name": "Adobe Systems Adobe Acrobat",
+    "hot_technology": true
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "43-3031.00",
+    "name": "Document management system software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "43-3031.00",
+    "name": "OmniRIM Records Management Suite",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "43-3031.00",
+    "name": "Records management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "13-2011.00",
+    "name": "Adobe Systems Adobe Acrobat",
+    "hot_technology": true
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "13-2011.00",
+    "name": "Document management system software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "13-2011.00",
+    "name": "Iron Mountain Accutrac records management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "13-2011.00",
+    "name": "Sage CPADocument Manager",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "41-3021.00",
+    "name": "Allstar Software Systems Kofax",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "13-2041.00",
+    "name": "Credit adjudication and lending management system CALMS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232202,
+    "skill_name": "Document management software",
+    "onetcode": "31-9092.00",
+    "name": "IDX Systems Patient Chart Tracking",
+    "hot_technology": false
+  },
+  {
+    "id": 43231605,
+    "skill_name": "Time accounting software",
+    "onetcode": "43-3031.00",
+    "name": "ADP Pay eXpert",
+    "hot_technology": false
+  },
+  {
+    "id": 43231605,
+    "skill_name": "Time accounting software",
+    "onetcode": "43-3031.00",
+    "name": "HMS",
+    "hot_technology": false
+  },
+  {
+    "id": 43231605,
+    "skill_name": "Time accounting software",
+    "onetcode": "43-3031.00",
+    "name": "Payroll software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "43-3031.00",
+    "name": "HCSS HeavyBid",
+    "hot_technology": false
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "43-3031.00",
+    "name": "HCSS HeavyJob",
+    "hot_technology": false
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "43-3031.00",
+    "name": "Microsoft Project",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "13-1082.00",
+    "name": "Atlassian Confluence",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "13-1082.00",
+    "name": "Google Classroom",
+    "hot_technology": false
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Teams",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "13-1082.00",
+    "name": "Oracle Primavera Enterprise Project Portfolio Management",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "15-1299.08",
+    "name": "Atlassian Confluence",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "15-1299.08",
+    "name": "Microsoft Project",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "15-1299.08",
+    "name": "Microsoft Teams",
+    "hot_technology": true
+  },
+  {
+    "id": 43231507,
+    "skill_name": "Project management software",
+    "onetcode": "15-1299.08",
+    "name": "Oracle Primavera Enterprise Project Portfolio Management",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1111.00",
+    "name": "Apache Tomcat",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1111.00",
+    "name": "Google Angular",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1111.00",
+    "name": "Microsoft ASP.NET",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1111.00",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1252.00",
+    "name": "Bootstrap",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1252.00",
+    "name": "React",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1252.00",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1252.00",
+    "name": "Vue.js",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1161.01",
+    "name": "AJAX",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1161.01",
+    "name": "Cascading style sheets CSS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1161.01",
+    "name": "Microsoft ASP.NET",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "13-1161.01",
+    "name": "Oracle JavaServer Pages JSP",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1232.00",
+    "name": "Django",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1232.00",
+    "name": "Google Angular",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1232.00",
+    "name": "Microsoft ASP.NET",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1232.00",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1211.00",
+    "name": "Django",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1211.00",
+    "name": "Google Angular",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1211.00",
+    "name": "React",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1211.00",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1299.08",
+    "name": "Django",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1299.08",
+    "name": "Google Angular",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1299.08",
+    "name": "React",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1299.08",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1212.00",
+    "name": "Django",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1212.00",
+    "name": "Google Angular",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1212.00",
+    "name": "Microsoft ASP.NET",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "15-1212.00",
+    "name": "Spring Framework",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "17-2112.01",
+    "name": "AJAX",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "17-2112.01",
+    "name": "Cascading style sheets CSS",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "17-2112.01",
+    "name": "Hypertext markup language HTML",
+    "hot_technology": true
+  },
+  {
+    "id": 43232408,
+    "skill_name": "Web platform development software",
+    "onetcode": "17-2112.01",
+    "name": "JavaScript Object Notation JSON",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1111.00",
+    "name": "Apache Kafka",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1111.00",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1111.00",
+    "name": "Go",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1111.00",
+    "name": "Microsoft PowerShell",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Azure software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1252.00",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1252.00",
+    "name": "Go",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1252.00",
+    "name": "Oracle Java 2 Platform Enterprise Edition J2EE",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1252.00",
+    "name": "Oracle SQL Developer",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1232.00",
+    "name": "Apache Kafka",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1232.00",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1232.00",
+    "name": "Microsoft PowerShell",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1232.00",
+    "name": "Ruby",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1211.00",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1211.00",
+    "name": "Go",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1211.00",
+    "name": "Oracle Java 2 Platform Enterprise Edition J2EE",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1211.00",
+    "name": "Oracle SQL Developer",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1299.08",
+    "name": "Apache Kafka",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1299.08",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1299.08",
+    "name": "Go",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1299.08",
+    "name": "Oracle Java 2 Platform Enterprise Edition J2EE",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1212.00",
+    "name": "Apache Kafka",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1212.00",
+    "name": "Apache Maven",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1212.00",
+    "name": "Go",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-1212.00",
+    "name": "Microsoft PowerShell",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.01",
+    "name": "Adobe Systems Adobe Creative Suite",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.01",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.01",
+    "name": "National Instruments LabVIEW",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft Visual Studio",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.00",
+    "name": "National Instruments LabVIEW",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.03",
+    "name": "C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.03",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2112.03",
+    "name": "National Instruments LabVIEW",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2141.00",
+    "name": "Microsoft Visual Basic",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2141.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2141.00",
+    "name": "National Instruments LabVIEW",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2141.00",
+    "name": "Verilog",
+    "hot_technology": false
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2071.00",
+    "name": "C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2071.00",
+    "name": "Eclipse IDE",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2071.00",
+    "name": "Microsoft Visual Basic for Applications VBA",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "17-2071.00",
+    "name": "Microsoft Visual Studio",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-2051.00",
+    "name": "Microsoft Azure software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232402,
+    "skill_name": "Development environment software",
+    "onetcode": "15-2051.00",
+    "name": "Scikit-learn",
+    "hot_technology": false
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "13-1111.00",
+    "name": "C#",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "13-1111.00",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "13-1111.00",
+    "name": "Scala",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "13-1111.00",
+    "name": "Swift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "41-3031.00",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "41-3031.00",
+    "name": "Oracle Java",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "41-3031.00",
+    "name": "Python",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "41-3031.00",
+    "name": "R",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1252.00",
+    "name": "Apache Spark",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1252.00",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1252.00",
+    "name": "Objective C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1252.00",
+    "name": "TypeScript",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1232.00",
+    "name": "C#",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1232.00",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1232.00",
+    "name": "Objective C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1232.00",
+    "name": "Swift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1211.00",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1211.00",
+    "name": "Objective C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1211.00",
+    "name": "Scala",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1211.00",
+    "name": "Swift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1299.08",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1299.08",
+    "name": "Objective C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1299.08",
+    "name": "Scala",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1299.08",
+    "name": "Swift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1212.00",
+    "name": "C#",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1212.00",
+    "name": "Objective C",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1212.00",
+    "name": "Scala",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-1212.00",
+    "name": "Swift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.01",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.01",
+    "name": "jQuery",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.01",
+    "name": "Oracle Java",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.01",
+    "name": "R",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.00",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.00",
+    "name": "Python",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.00",
+    "name": "R",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2112.00",
+    "name": "Sun Microsystems Java",
+    "hot_technology": false
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2141.00",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2141.00",
+    "name": "Perl",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2141.00",
+    "name": "Python",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2141.00",
+    "name": "R",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2071.00",
+    "name": "C#",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2071.00",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2071.00",
+    "name": "Perl",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "17-2071.00",
+    "name": "Python",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-2051.00",
+    "name": "C++",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-2051.00",
+    "name": "Oracle Java",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-2051.00",
+    "name": "R",
+    "hot_technology": true
+  },
+  {
+    "id": 43232405,
+    "skill_name": "Object or component oriented development software",
+    "onetcode": "15-2051.00",
+    "name": "Scala",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "13-1082.00",
+    "name": "Apple Keynote",
+    "hot_technology": false
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "13-1082.00",
+    "name": "Google Slides",
+    "hot_technology": false
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "13-1082.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "13-1082.00",
+    "name": "Poll Everywhere",
+    "hot_technology": false
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "41-3031.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "29-2052.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "17-2112.01",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43232106,
+    "skill_name": "Presentation software",
+    "onetcode": "17-2112.00",
+    "name": "Microsoft PowerPoint",
+    "hot_technology": true
+  },
+  {
+    "id": 43231603,
+    "skill_name": "Tax preparation software",
+    "onetcode": "13-2011.00",
+    "name": "ATX Total Tax Office",
+    "hot_technology": false
+  },
+  {
+    "id": 43231603,
+    "skill_name": "Tax preparation software",
+    "onetcode": "13-2011.00",
+    "name": "Intuit TurboTax",
+    "hot_technology": false
+  },
+  {
+    "id": 43231603,
+    "skill_name": "Tax preparation software",
+    "onetcode": "13-2011.00",
+    "name": "NewPortWave Year End Solutions",
+    "hot_technology": false
+  },
+  {
+    "id": 43231603,
+    "skill_name": "Tax preparation software",
+    "onetcode": "13-2011.00",
+    "name": "Thomson GoSystem Tax",
+    "hot_technology": false
+  },
+  {
+    "id": 43231505,
+    "skill_name": "Human resources software",
+    "onetcode": "11-3031.00",
+    "name": "ADP Workforce Now",
+    "hot_technology": false
+  },
+  {
+    "id": 43231505,
+    "skill_name": "Human resources software",
+    "onetcode": "11-3031.00",
+    "name": "Human resource information system (HRIS)",
+    "hot_technology": false
+  },
+  {
+    "id": 43231505,
+    "skill_name": "Human resources software",
+    "onetcode": "11-3031.00",
+    "name": "Human resource management software HRMS",
+    "hot_technology": false
+  },
+  {
+    "id": 43231505,
+    "skill_name": "Human resources software",
+    "onetcode": "29-1141.00",
+    "name": "Human resource management software HRMS",
+    "hot_technology": false
+  },
+  {
+    "id": 43231505,
+    "skill_name": "Human resources software",
+    "onetcode": "29-1141.00",
+    "name": "Oracle Taleo",
+    "hot_technology": false
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "11-3031.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "11-3031.00",
+    "name": "Moody's KMV FAMAS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "41-3021.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "13-2051.00",
+    "name": "Apple AppleWorks",
+    "hot_technology": false
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "13-2051.00",
+    "name": "Corel QuattroPro",
+    "hot_technology": false
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "13-2051.00",
+    "name": "IBM Lotus 1-2-3",
+    "hot_technology": false
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "13-2051.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "29-1141.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "31-1131.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "29-2052.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "31-9091.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232110,
+    "skill_name": "Spreadsheet software",
+    "onetcode": "15-2051.00",
+    "name": "Microsoft Excel",
+    "hot_technology": true
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "41-3031.00",
+    "name": "ADP/Vantra VOLTS",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "41-3031.00",
+    "name": "Imagine Software Imagine Trading System",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "15-1232.00",
+    "name": "ParentSquare",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "15-1232.00",
+    "name": "Remote control software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "15-1232.00",
+    "name": "Skype",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "15-1232.00",
+    "name": "Stac Software ReachOut",
+    "hot_technology": false
+  },
+  {
+    "id": 43232702,
+    "skill_name": "Desktop communications software",
+    "onetcode": "17-2112.03",
+    "name": "Eko",
+    "hot_technology": false
+  },
+  {
+    "id": 43232309,
+    "skill_name": "Information retrieval or search software",
+    "onetcode": "13-2051.00",
+    "name": "dailyVest Investment Personalization Platform",
+    "hot_technology": false
+  },
+  {
+    "id": 43232309,
+    "skill_name": "Information retrieval or search software",
+    "onetcode": "13-2051.00",
+    "name": "LexisNexis",
+    "hot_technology": false
+  },
+  {
+    "id": 43232309,
+    "skill_name": "Information retrieval or search software",
+    "onetcode": "13-2051.00",
+    "name": "TradeTools Monthly U.S. Economic Database",
+    "hot_technology": false
+  },
+  {
+    "id": 43232309,
+    "skill_name": "Information retrieval or search software",
+    "onetcode": "13-2051.00",
+    "name": "Ward Systems Group NeuroShell Trader",
+    "hot_technology": false
+  },
+  {
+    "id": 43232201,
+    "skill_name": "Content workflow software",
+    "onetcode": "13-2041.00",
+    "name": "Equifax Application Engine",
+    "hot_technology": false
+  },
+  {
+    "id": 43232201,
+    "skill_name": "Content workflow software",
+    "onetcode": "13-2041.00",
+    "name": "Experian Transact SM",
+    "hot_technology": false
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "13-2041.00",
+    "name": "Experian Strategy Management",
+    "hot_technology": false
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "13-2041.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "31-1121.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "31-1131.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "31-9092.00",
+    "name": "Business software applications",
+    "hot_technology": false
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "31-9092.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "29-2052.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231513,
+    "skill_name": "Office suite software",
+    "onetcode": "31-9091.00",
+    "name": "Microsoft Office software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232301,
+    "skill_name": "Categorization or classification software",
+    "onetcode": "29-1141.00",
+    "name": "Diagnostic and procedural coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232301,
+    "skill_name": "Categorization or classification software",
+    "onetcode": "31-9092.00",
+    "name": "Diagnostic and procedural coding software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "31-1131.00",
+    "name": "Web browser software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "31-9091.00",
+    "name": "Web browser software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "17-2112.01",
+    "name": "Apple Safari",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "17-2112.01",
+    "name": "Microsoft Internet Explorer",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "17-2112.01",
+    "name": "Mozilla Firefox",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "17-2112.03",
+    "name": "Microsoft Internet Explorer",
+    "hot_technology": false
+  },
+  {
+    "id": 43232705,
+    "skill_name": "Internet browser software",
+    "onetcode": "17-2112.03",
+    "name": "Web browser software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231510,
+    "skill_name": "Label making software",
+    "onetcode": "29-2052.00",
+    "name": "Label-making software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1252.00",
+    "name": "Fault testing software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1252.00",
+    "name": "Hewlett Packard LoadRunner",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1252.00",
+    "name": "JUnit",
+    "hot_technology": true
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1252.00",
+    "name": "Selenium",
+    "hot_technology": true
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1211.00",
+    "name": "Functional testing software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1211.00",
+    "name": "Hewlett Packard LoadRunner",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1211.00",
+    "name": "JUnit",
+    "hot_technology": true
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "15-1211.00",
+    "name": "Selenium",
+    "hot_technology": true
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.01",
+    "name": "Debugging software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.01",
+    "name": "TechSmith Morae",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.01",
+    "name": "Usability testing software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.01",
+    "name": "User interface design software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.00",
+    "name": "Hewlett Packard LoadRunner",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.00",
+    "name": "JUnit",
+    "hot_technology": true
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.00",
+    "name": "Logic programming software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2112.00",
+    "name": "User interface design software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2071.00",
+    "name": "Debugging software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232406,
+    "skill_name": "Program testing software",
+    "onetcode": "17-2071.00",
+    "name": "Defect tracking software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1252.00",
+    "name": "Atlassian Bitbucket",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1252.00",
+    "name": "GitLab",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1252.00",
+    "name": "Kubernetes",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1252.00",
+    "name": "Red Hat OpenShift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1299.08",
+    "name": "Atlassian Bitbucket",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1299.08",
+    "name": "GitLab",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1299.08",
+    "name": "Kubernetes",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-1299.08",
+    "name": "Red Hat OpenShift",
+    "hot_technology": true
+  },
+  {
+    "id": 43232701,
+    "skill_name": "Application server software",
+    "onetcode": "15-2051.00",
+    "name": "Docker",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1252.00",
+    "name": "Chef",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1252.00",
+    "name": "IBM Terraform",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1252.00",
+    "name": "Perforce Helix software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1252.00",
+    "name": "Puppet",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1232.00",
+    "name": "Chef",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1232.00",
+    "name": "Patch management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1232.00",
+    "name": "Perforce Helix software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1232.00",
+    "name": "Puppet",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1211.00",
+    "name": "Chef",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1211.00",
+    "name": "HyperSpace",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1211.00",
+    "name": "Perforce Helix software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1211.00",
+    "name": "Puppet",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1299.08",
+    "name": "Chef",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1299.08",
+    "name": "IBM Terraform",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1299.08",
+    "name": "Perforce Helix software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "15-1299.08",
+    "name": "Puppet",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "17-2141.00",
+    "name": "Chef",
+    "hot_technology": true
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "17-2141.00",
+    "name": "Perforce Helix software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232401,
+    "skill_name": "Configuration management software",
+    "onetcode": "17-2141.00",
+    "name": "Puppet",
+    "hot_technology": true
+  },
+  {
+    "id": 43231514,
+    "skill_name": "Sales and marketing software",
+    "onetcode": "13-1161.01",
+    "name": "Google Ads",
+    "hot_technology": false
+  },
+  {
+    "id": 43231514,
+    "skill_name": "Sales and marketing software",
+    "onetcode": "13-1161.01",
+    "name": "HubSpot software",
+    "hot_technology": true
+  },
+  {
+    "id": 43231514,
+    "skill_name": "Sales and marketing software",
+    "onetcode": "13-1161.01",
+    "name": "Marketo Marketing Automation",
+    "hot_technology": true
+  },
+  {
+    "id": 43233504,
+    "skill_name": "Instant messaging software",
+    "onetcode": "13-1161.01",
+    "name": "Twitter",
+    "hot_technology": false
+  },
+  {
+    "id": 43233504,
+    "skill_name": "Instant messaging software",
+    "onetcode": "13-1161.01",
+    "name": "WhatsApp",
+    "hot_technology": false
+  },
+  {
+    "id": 43233504,
+    "skill_name": "Instant messaging software",
+    "onetcode": "17-2141.00",
+    "name": "Blink",
+    "hot_technology": false
+  },
+  {
+    "id": 43232403,
+    "skill_name": "Enterprise application integration software",
+    "onetcode": "15-1211.00",
+    "name": "Atlassian Bamboo",
+    "hot_technology": true
+  },
+  {
+    "id": 43232403,
+    "skill_name": "Enterprise application integration software",
+    "onetcode": "15-1211.00",
+    "name": "Extensible markup language XML",
+    "hot_technology": true
+  },
+  {
+    "id": 43232403,
+    "skill_name": "Enterprise application integration software",
+    "onetcode": "15-1211.00",
+    "name": "IBM InfoSphere DataStage",
+    "hot_technology": false
+  },
+  {
+    "id": 43232403,
+    "skill_name": "Enterprise application integration software",
+    "onetcode": "15-1211.00",
+    "name": "Microsoft SQL Server Integration Services SSIS",
+    "hot_technology": true
+  },
+  {
+    "id": 43233205,
+    "skill_name": "Transaction security and virus protection software",
+    "onetcode": "15-1212.00",
+    "name": "HP WebInspect",
+    "hot_technology": false
+  },
+  {
+    "id": 43233205,
+    "skill_name": "Transaction security and virus protection software",
+    "onetcode": "15-1212.00",
+    "name": "NortonLifeLock cybersecurity software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233205,
+    "skill_name": "Transaction security and virus protection software",
+    "onetcode": "15-1212.00",
+    "name": "Portswigger BurP Suite",
+    "hot_technology": false
+  },
+  {
+    "id": 43233205,
+    "skill_name": "Transaction security and virus protection software",
+    "onetcode": "15-1212.00",
+    "name": "Stack smashing protection SSP software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232801,
+    "skill_name": "Network monitoring software",
+    "onetcode": "15-1212.00",
+    "name": "Nagios",
+    "hot_technology": false
+  },
+  {
+    "id": 43232801,
+    "skill_name": "Network monitoring software",
+    "onetcode": "15-1212.00",
+    "name": "Sniffer Investigator",
+    "hot_technology": false
+  },
+  {
+    "id": 43232801,
+    "skill_name": "Network monitoring software",
+    "onetcode": "15-1212.00",
+    "name": "Symantec Blue Coat Data Loss Prevention",
+    "hot_technology": false
+  },
+  {
+    "id": 43232801,
+    "skill_name": "Network monitoring software",
+    "onetcode": "15-1212.00",
+    "name": "Wireshark",
+    "hot_technology": false
+  },
+  {
+    "id": 43233204,
+    "skill_name": "Network security and virtual private network VPN equipment software",
+    "onetcode": "15-1212.00",
+    "name": "Imperva SecureSphere",
+    "hot_technology": false
+  },
+  {
+    "id": 43233204,
+    "skill_name": "Network security and virtual private network VPN equipment software",
+    "onetcode": "15-1212.00",
+    "name": "IpFilter",
+    "hot_technology": false
+  },
+  {
+    "id": 43233204,
+    "skill_name": "Network security and virtual private network VPN equipment software",
+    "onetcode": "15-1212.00",
+    "name": "Palo Alto Networks Next-Generation Security Platform",
+    "hot_technology": false
+  },
+  {
+    "id": 43233204,
+    "skill_name": "Network security and virtual private network VPN equipment software",
+    "onetcode": "15-1212.00",
+    "name": "Trend Micro TippingPoint",
+    "hot_technology": false
+  },
+  {
+    "id": 43233203,
+    "skill_name": "Network security or virtual private network VPN management software",
+    "onetcode": "15-1212.00",
+    "name": "HP Fortify",
+    "hot_technology": false
+  },
+  {
+    "id": 43233203,
+    "skill_name": "Network security or virtual private network VPN management software",
+    "onetcode": "15-1212.00",
+    "name": "Intrusion prevention system IPS",
+    "hot_technology": false
+  },
+  {
+    "id": 43233203,
+    "skill_name": "Network security or virtual private network VPN management software",
+    "onetcode": "15-1212.00",
+    "name": "Network and system vulnerability assessment software",
+    "hot_technology": false
+  },
+  {
+    "id": 43233203,
+    "skill_name": "Network security or virtual private network VPN management software",
+    "onetcode": "15-1212.00",
+    "name": "Websense Data Loss Prevention",
+    "hot_technology": false
+  },
+  {
+    "id": 43232404,
+    "skill_name": "Graphical user interface development software",
+    "onetcode": "17-2112.01",
+    "name": "Altia Design",
+    "hot_technology": false
+  },
+  {
+    "id": 43232404,
+    "skill_name": "Graphical user interface development software",
+    "onetcode": "17-2112.01",
+    "name": "Graphical user interfaces GUI",
+    "hot_technology": false
+  },
+  {
+    "id": 43232404,
+    "skill_name": "Graphical user interface development software",
+    "onetcode": "17-2112.01",
+    "name": "Seeing Machines faceLAB",
+    "hot_technology": false
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.01",
+    "name": "Autodesk AutoCAD",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.01",
+    "name": "Dassault Systemes CATIA",
+    "hot_technology": false
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.01",
+    "name": "Dassault Systemes SolidWorks",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.00",
+    "name": "Autodesk AutoCAD",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.00",
+    "name": "Bentley MicroStation",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.00",
+    "name": "Dassault Systemes CATIA",
+    "hot_technology": false
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.00",
+    "name": "Dassault Systemes SolidWorks",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.03",
+    "name": "Autodesk AutoCAD",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.03",
+    "name": "Dassault Systemes CATIA",
+    "hot_technology": false
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.03",
+    "name": "Dassault Systemes SolidWorks",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2112.03",
+    "name": "PTC Creo Parametric",
+    "hot_technology": false
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2141.00",
+    "name": "Autodesk AutoCAD Civil 3D",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2141.00",
+    "name": "Autodesk Revit",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2141.00",
+    "name": "Bentley MicroStation",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2141.00",
+    "name": "Dassault Systemes SolidWorks",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2071.00",
+    "name": "Autodesk AutoCAD Civil 3D",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2071.00",
+    "name": "Autodesk Revit",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2071.00",
+    "name": "Bentley MicroStation",
+    "hot_technology": true
+  },
+  {
+    "id": 43232604,
+    "skill_name": "Computer aided design CAD software",
+    "onetcode": "17-2071.00",
+    "name": "Dassault Systemes SolidWorks",
+    "hot_technology": true
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.00",
+    "name": "Allen Bradley PanelView",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.00",
+    "name": "Human machine interface HMI software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.00",
+    "name": "Nupro CastView",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.00",
+    "name": "Supervisory control and data acquisition SCADA software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.03",
+    "name": "Computer numerical control CNC software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.03",
+    "name": "Programmable logic controller PLC software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2112.03",
+    "name": "Supervisory control and data acquisition SCADA software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2141.00",
+    "name": "Computer numerical control CNC software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2141.00",
+    "name": "Human machine interface HMI software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2141.00",
+    "name": "Supervisory control and data acquisition SCADA software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2071.00",
+    "name": "AVEVA InTouch HMI",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2071.00",
+    "name": "Programmable logic controller PLC software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232608,
+    "skill_name": "Industrial control software",
+    "onetcode": "17-2071.00",
+    "name": "Supervisory control and data acquisition SCADA software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231506,
+    "skill_name": "Materials requirements planning logistics and supply chain software",
+    "onetcode": "17-2112.00",
+    "name": "Materials requirement planning MRP software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231506,
+    "skill_name": "Materials requirements planning logistics and supply chain software",
+    "onetcode": "17-2112.00",
+    "name": "Production scheduling and planning software",
+    "hot_technology": false
+  },
+  {
+    "id": 43231506,
+    "skill_name": "Materials requirements planning logistics and supply chain software",
+    "onetcode": "17-2112.00",
+    "name": "Supply chain capacity planning software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232612,
+    "skill_name": "Computer aided manufacturing CAM software",
+    "onetcode": "17-2112.03",
+    "name": "CNC Mastercam",
+    "hot_technology": false
+  },
+  {
+    "id": 43232612,
+    "skill_name": "Computer aided manufacturing CAM software",
+    "onetcode": "17-2112.03",
+    "name": "Geometric CAMWorks",
+    "hot_technology": false
+  },
+  {
+    "id": 43232612,
+    "skill_name": "Computer aided manufacturing CAM software",
+    "onetcode": "17-2112.03",
+    "name": "Siemens NX",
+    "hot_technology": false
+  },
+  {
+    "id": 43232510,
+    "skill_name": "Geographic information system",
+    "onetcode": "17-2141.00",
+    "name": "ESRI ArcGIS software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232510,
+    "skill_name": "Geographic information system",
+    "onetcode": "17-2141.00",
+    "name": "Geographic information system GIS software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232510,
+    "skill_name": "Geographic information system",
+    "onetcode": "17-2071.00",
+    "name": "ESRI ArcGIS software",
+    "hot_technology": true
+  },
+  {
+    "id": 43232510,
+    "skill_name": "Geographic information system",
+    "onetcode": "17-2071.00",
+    "name": "ETAP",
+    "hot_technology": false
+  },
+  {
+    "id": 43232407,
+    "skill_name": "Requirements analysis and system architecture software",
+    "onetcode": "17-2071.00",
+    "name": "Requirements management software",
+    "hot_technology": false
+  },
+  {
+    "id": 43232407,
+    "skill_name": "Requirements analysis and system architecture software",
+    "onetcode": "17-2071.00",
+    "name": "Unified modeling language UML",
+    "hot_technology": false
+  },
+  {
+    "id": 43232203,
+    "skill_name": "File versioning software",
+    "onetcode": "15-2051.00",
+    "name": "Git",
+    "hot_technology": true
+  }
+]

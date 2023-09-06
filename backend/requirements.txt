@@ -1,0 +1,15 @@
+aiohttp
+astroid
+black
+dill
+flask-cors
+flask-sqlalchemy
+gunicorn
+mccabe
+pip-chill
+psycopg2-binary
+pycodestyle
+pytest
+requests
+tomlkit
+tqdm

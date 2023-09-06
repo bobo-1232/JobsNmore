@@ -1,0 +1,5160 @@
+[
+  {
+    "id": 43231602,
+    "name": "Enterprise resource planning ERP software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-1082.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3021.00",
+      "41-3031.00",
+      "13-2051.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-2052.00",
+      "15-1252.00",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "17-2112.03"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Deacom ERP"
+          },
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "name": "Sage MAS 200 ERP"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "name": "people@work"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "43-3031.00": [
+          {
+            "name": "AcornSystems Corporate Performance Management"
+          },
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Sage 100 ERP"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "NetSuite ERP"
+          },
+          {
+            "name": "Oracle Hyperion"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "NetSuite ERP"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "name": "Sage Platinum for Windows PFW"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle Fusion Applications"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "Advantage Information Systems The Agency Advantage"
+          },
+          {
+            "name": "AMS Services AMS Sagitta"
+          },
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Vulcan Solutions Vulcan Insurance"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "Microsoft Dynamics GP"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "name": "Oracle PeopleSoft Financials"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          },
+          {
+            "name": "SSA Global Infinium Financial Management"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle JD Edwards EnterpriseOne"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "name": "Pharmacy management software"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle Fusion Applications"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle Fusion Applications"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle Fusion Applications"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "name": "Clarity Systems IBM Clarity"
+          },
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle PeopleSoft"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "Product lifecycle management PLM software"
+          },
+          {
+            "hot_technology": "SAP software",
+            "name": "SAP software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232306,
+    "name": "Data base user interface and query software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2051.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "15-1252.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.00",
+      "17-2112.03",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Airtable"
+          },
+          {
+            "hot_technology": "Amazon Web Services AWS software",
+            "name": "Amazon Web Services AWS software"
+          },
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "name": "Airtable"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "name": "Airtable"
+          },
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "43-3031.00": [
+          {
+            "name": "Database software"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "name": "Airtable"
+          },
+          {
+            "hot_technology": "Amazon Elastic Compute Cloud EC2",
+            "name": "Amazon Elastic Compute Cloud EC2"
+          },
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "Transact-SQL",
+            "name": "Transact-SQL"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "Database management software"
+          },
+          {
+            "name": "FileMaker Pro"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "name": "Web-based information systems"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          },
+          {
+            "hot_technology": "Yardi software",
+            "name": "Yardi software"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "Data entry software"
+          },
+          {
+            "name": "Database software"
+          },
+          {
+            "name": "FileMaker Pro"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "name": "Health information database software"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Data entry software"
+          },
+          {
+            "name": "Database software"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "name": "Database software"
+          },
+          {
+            "name": "Drug compatibility software"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "name": "Airtable"
+          },
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "GraphQL",
+            "name": "GraphQL"
+          },
+          {
+            "hot_technology": "ServiceNow",
+            "name": "ServiceNow"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "name": "Online databases"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Amazon Redshift",
+            "name": "Amazon Redshift"
+          },
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "ServiceNow",
+            "name": "ServiceNow"
+          },
+          {
+            "hot_technology": "Transact-SQL",
+            "name": "Transact-SQL"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "name": "Blackboard software"
+          },
+          {
+            "hot_technology": "IBM DB2",
+            "name": "IBM DB2"
+          },
+          {
+            "hot_technology": "ServiceNow",
+            "name": "ServiceNow"
+          },
+          {
+            "hot_technology": "Transact-SQL",
+            "name": "Transact-SQL"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Amazon Elastic Compute Cloud EC2",
+            "name": "Amazon Elastic Compute Cloud EC2"
+          },
+          {
+            "hot_technology": "IBM DB2",
+            "name": "IBM DB2"
+          },
+          {
+            "hot_technology": "ServiceNow",
+            "name": "ServiceNow"
+          },
+          {
+            "hot_technology": "Transact-SQL",
+            "name": "Transact-SQL"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "Amazon Elastic Compute Cloud EC2",
+            "name": "Amazon Elastic Compute Cloud EC2"
+          },
+          {
+            "hot_technology": "Amazon Redshift",
+            "name": "Amazon Redshift"
+          },
+          {
+            "hot_technology": "Amazon Web Services AWS software",
+            "name": "Amazon Web Services AWS software"
+          },
+          {
+            "name": "Blackboard software"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          },
+          {
+            "hot_technology": "Microsoft SQL Server",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "FileMaker Pro"
+          },
+          {
+            "hot_technology": "Microsoft Access",
+            "name": "Microsoft Access"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Amazon Web Services AWS software",
+            "name": "Amazon Web Services AWS software"
+          },
+          {
+            "name": "PySpark"
+          },
+          {
+            "name": "PyTorch"
+          },
+          {
+            "hot_technology": "Structured query language SQL",
+            "name": "Structured query language SQL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232303,
+    "name": "Customer relationship management CRM software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "41-3021.00",
+      "41-3031.00",
+      "31-1121.00",
+      "13-1161.01"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Act!"
+          },
+          {
+            "name": "Salesforce software"
+          },
+          {
+            "name": "Sugar CRM"
+          },
+          {
+            "name": "vtiger CRM"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "name": "Blackbaud The Raiser's Edge"
+          },
+          {
+            "name": "Parature eTicket"
+          },
+          {
+            "name": "Salesforce software"
+          },
+          {
+            "name": "Telemation e-CRM"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "Allied Financial Software Act4Advisors"
+          },
+          {
+            "name": "Applied Systems Vision"
+          },
+          {
+            "name": "Insurance Technologies ForeSight Enterprise"
+          },
+          {
+            "name": "Tangle S Creations Your Insurance Office"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "CSI Complex Systems ClientTrade"
+          },
+          {
+            "hot_technology": "Microsoft Dynamics",
+            "name": "Microsoft Dynamics"
+          },
+          {
+            "name": "Oracle Siebel CRM"
+          },
+          {
+            "name": "Salesforce software"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "name": "Salesforce software"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "name": "Customer information databases"
+          },
+          {
+            "name": "Oracle Eloqua"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233004,
+    "name": "Operating system software",
+    "onetcode": [
+      "11-1021.00",
+      "43-6014.00",
+      "13-1111.00",
+      "41-3031.00",
+      "31-1121.00",
+      "31-9092.00",
+      "15-1252.00",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.00",
+      "17-2071.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "hot_technology": "Apple macOS",
+            "name": "Apple macOS"
+          },
+          {
+            "hot_technology": "Microsoft Windows",
+            "name": "Microsoft Windows"
+          },
+          {
+            "name": "Oracle Solaris"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "hot_technology": "Apple macOS",
+            "name": "Apple macOS"
+          },
+          {
+            "hot_technology": "Linux",
+            "name": "Linux"
+          },
+          {
+            "hot_technology": "Microsoft Windows",
+            "name": "Microsoft Windows"
+          },
+          {
+            "name": "Oracle Solaris"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Apple macOS",
+            "name": "Apple macOS"
+          },
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX",
+            "name": "UNIX"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "hot_technology": "Linux",
+            "name": "Linux"
+          },
+          {
+            "hot_technology": "Microsoft Windows",
+            "name": "Microsoft Windows"
+          },
+          {
+            "hot_technology": "UNIX",
+            "name": "UNIX"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "Linux",
+            "name": "Linux"
+          },
+          {
+            "hot_technology": "Microsoft Windows",
+            "name": "Microsoft Windows"
+          },
+          {
+            "hot_technology": "UNIX",
+            "name": "UNIX"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Microsoft Windows Vista Business"
+          },
+          {
+            "name": "Microsoft Windows XP Professional"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Apple iOS",
+            "name": "Apple iOS"
+          },
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Apple iOS",
+            "name": "Apple iOS"
+          },
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "Linux",
+            "name": "Linux"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX Shell",
+            "name": "UNIX Shell"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "hot_technology": "Bash",
+            "name": "Bash"
+          },
+          {
+            "hot_technology": "Microsoft Windows Server",
+            "name": "Microsoft Windows Server"
+          },
+          {
+            "hot_technology": "Shell script",
+            "name": "Shell script"
+          },
+          {
+            "hot_technology": "UNIX",
+            "name": "UNIX"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "name": "Keras"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232314,
+    "name": "Business intelligence and data analysis software",
+    "onetcode": [
+      "11-1021.00",
+      "13-1111.00",
+      "13-1082.00",
+      "11-3031.00",
+      "13-2051.00",
+      "13-1161.01",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "IBM Cognos Impromptu"
+          },
+          {
+            "hot_technology": "MicroStrategy",
+            "name": "MicroStrategy"
+          },
+          {
+            "hot_technology": "Qlik Tech QlikView",
+            "name": "Qlik Tech QlikView"
+          },
+          {
+            "hot_technology": "Tableau",
+            "name": "Tableau"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Alteryx software",
+            "name": "Alteryx software"
+          },
+          {
+            "hot_technology": "Apache Spark",
+            "name": "Apache Spark"
+          },
+          {
+            "hot_technology": "MicroStrategy",
+            "name": "MicroStrategy"
+          },
+          {
+            "hot_technology": "Qlik Tech QlikView",
+            "name": "Qlik Tech QlikView"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "name": "IBM Cognos Impromptu"
+          },
+          {
+            "name": "Oracle Business Intelligence Enterprise Edition"
+          },
+          {
+            "hot_technology": "Qlik Tech QlikView",
+            "name": "Qlik Tech QlikView"
+          },
+          {
+            "hot_technology": "Tableau",
+            "name": "Tableau"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "name": "IBM Cognos Impromptu"
+          },
+          {
+            "hot_technology": "MicroStrategy",
+            "name": "MicroStrategy"
+          },
+          {
+            "hot_technology": "Qlik Tech QlikView",
+            "name": "Qlik Tech QlikView"
+          },
+          {
+            "hot_technology": "Tableau",
+            "name": "Tableau"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "hot_technology": "Alteryx software",
+            "name": "Alteryx software"
+          },
+          {
+            "hot_technology": "MicroStrategy",
+            "name": "MicroStrategy"
+          },
+          {
+            "hot_technology": "Qlik Tech QlikView",
+            "name": "Qlik Tech QlikView"
+          },
+          {
+            "hot_technology": "Tableau",
+            "name": "Tableau"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "name": "BrightEdge"
+          },
+          {
+            "name": "Conductor Searchlight"
+          },
+          {
+            "name": "IBM Digital Analytics"
+          },
+          {
+            "name": "Searchmetrics Suite"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Apache Spark",
+            "name": "Apache Spark"
+          },
+          {
+            "hot_technology": "Tableau",
+            "name": "Tableau"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232605,
+    "name": "Analytical or scientific software",
+    "onetcode": [
+      "11-1021.00",
+      "13-1111.00",
+      "13-2011.00",
+      "13-2051.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "name": "Minitab"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "name": "Minitab"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "name": "Guidance Software EnCase Enterprise"
+          },
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "name": "WizSoft WizRule"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "name": "StataCorp Stata"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "name": "Statistical software"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "name": "Finite element method FEM software"
+          },
+          {
+            "name": "Minitab"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          },
+          {
+            "name": "Workcell simulation software"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "Minitab"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "name": "MAYA Nastran"
+          },
+          {
+            "name": "Minitab"
+          },
+          {
+            "name": "ReliaSoft Weibull++ 6"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "name": "MathWorks Simulink"
+          },
+          {
+            "name": "Minitab"
+          },
+          {
+            "name": "Powersim PSIM"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "IBM SPSS Statistics",
+            "name": "IBM SPSS Statistics"
+          },
+          {
+            "hot_technology": "SAS",
+            "name": "SAS"
+          },
+          {
+            "hot_technology": "The MathWorks MATLAB",
+            "name": "The MathWorks MATLAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233501,
+    "name": "Electronic mail software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "13-1082.00",
+      "11-3031.00",
+      "41-3021.00",
+      "41-3031.00",
+      "13-2051.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "13-1161.01",
+      "17-2112.03",
+      "17-2141.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          },
+          {
+            "name": "Mozilla Thunderbird"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "name": "Astute Solutions PowerCenter"
+          },
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "Email software"
+          },
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "name": "Email software"
+          },
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Email software"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "name": "Email software"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "name": "Email software"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          },
+          {
+            "name": "Yahoo! Email"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          },
+          {
+            "hot_technology": "Microsoft Outlook",
+            "name": "Microsoft Outlook"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "name": "IBM Notes"
+          },
+          {
+            "name": "Microsoft Exchange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231601,
+    "name": "Accounting software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2051.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Tax software"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Tax software"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Tax software"
+          }
+        ]
+      },
+      {
+        "43-3031.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Tax software"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Summit Software Summit Biofuels Accounting"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "name": "Accounts receivable software"
+          },
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "name": "Fund accounting software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          },
+          {
+            "name": "Sage 50 Accounting"
+          },
+          {
+            "name": "Tax software"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "name": "Billing software"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Billing software"
+          },
+          {
+            "name": "Bookkeeping software"
+          },
+          {
+            "hot_technology": "Intuit QuickBooks",
+            "name": "Intuit QuickBooks"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "name": "Billing and reimbursement software"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "name": "Quicken"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232103,
+    "name": "Video creation and editing software",
+    "onetcode": [
+      "11-1021.00",
+      "13-1082.00",
+      "41-3021.00",
+      "29-1141.00",
+      "31-1131.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Apple Final Cut Pro"
+          },
+          {
+            "name": "Flipgrid"
+          },
+          {
+            "name": "Screencastify"
+          },
+          {
+            "name": "YouTube"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "name": "Flipgrid"
+          },
+          {
+            "name": "Loom"
+          },
+          {
+            "name": "Screencastify"
+          },
+          {
+            "name": "YouTube"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "hot_technology": "Adobe Systems Adobe After Effects",
+            "name": "Adobe Systems Adobe After Effects"
+          },
+          {
+            "name": "Apple Final Cut Pro"
+          },
+          {
+            "name": "YouTube"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "YouTube"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "name": "YouTube"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233513,
+    "name": "Cloud-based data access and sharing software",
+    "onetcode": [
+      "11-1021.00",
+      "43-4051.00",
+      "43-6014.00",
+      "43-3031.00",
+      "13-1082.00",
+      "31-1121.00",
+      "29-1141.00"
+    ],
+    "example": [
+      {
+        "11-1021.00": [
+          {
+            "name": "Dropbox"
+          },
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          },
+          {
+            "hot_technology": "Slack",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "43-4051.00": [
+          {
+            "name": "Dropbox"
+          },
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          },
+          {
+            "hot_technology": "Slack",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "name": "Dropbox"
+          },
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          },
+          {
+            "hot_technology": "Slack",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "43-3031.00": [
+          {
+            "name": "Dropbox"
+          },
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "name": "Dropbox"
+          },
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          },
+          {
+            "hot_technology": "Slack",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "Google Drive"
+          },
+          {
+            "hot_technology": "Microsoft SharePoint",
+            "name": "Microsoft SharePoint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232610,
+    "name": "Medical software",
+    "onetcode": [
+      "43-4051.00",
+      "43-3031.00",
+      "13-1111.00",
+      "13-2011.00",
+      "41-3021.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00"
+    ],
+    "example": [
+      {
+        "43-4051.00": [
+          {
+            "name": "Healthcare common procedure coding system HCPCS"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "Medical procedure coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          }
+        ]
+      },
+      {
+        "43-3031.00": [
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "Medical procedure coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "Medical procedure coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "Medical procedure coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "Healthcare common procedure coding system HCPCS"
+          },
+          {
+            "name": "Medical procedure coding software"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "name": "AIGHD OASIS"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "hot_technology": "eClinicalWorks EHR software",
+            "name": "eClinicalWorks EHR software"
+          },
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "MEDITECH software"
+          },
+          {
+            "name": "Siemens SIENET Sky"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "Medical procedure coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          },
+          {
+            "name": "Telemetry software"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "hot_technology": "eClinicalWorks EHR software",
+            "name": "eClinicalWorks EHR software"
+          },
+          {
+            "hot_technology": "Epic Systems",
+            "name": "Epic Systems"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "name": "Compounder software"
+          },
+          {
+            "name": "Medical condition coding software"
+          },
+          {
+            "name": "MEDITECH software"
+          },
+          {
+            "name": "Pharmaceutical software"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "name": "Henry Schein Dentrix"
+          },
+          {
+            "name": "Kodak Dental Systems Kodak SOFTDENT Practice management software PMS"
+          },
+          {
+            "name": "Patterson Dental Supply Patterson EagleSoft"
+          },
+          {
+            "name": "The Systems Workplace TDOCS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233502,
+    "name": "Video conferencing software",
+    "onetcode": [
+      "43-4051.00",
+      "43-6014.00",
+      "13-1082.00",
+      "41-3021.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00"
+    ],
+    "example": [
+      {
+        "43-4051.00": [
+          {
+            "name": "FaceTime"
+          },
+          {
+            "name": "Google Meet"
+          },
+          {
+            "name": "LogMeIn GoToMeeting"
+          },
+          {
+            "hot_technology": "Zoom",
+            "name": "Zoom"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "hot_technology": "Cisco Webex",
+            "name": "Cisco Webex"
+          },
+          {
+            "name": "Google Meet"
+          },
+          {
+            "name": "LogMeIn GoToMeeting"
+          },
+          {
+            "hot_technology": "Zoom",
+            "name": "Zoom"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "hot_technology": "Cisco Webex",
+            "name": "Cisco Webex"
+          },
+          {
+            "name": "Google Meet"
+          },
+          {
+            "name": "LogMeIn GoToMeeting"
+          },
+          {
+            "hot_technology": "Zoom",
+            "name": "Zoom"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "LogMeIn GoToMeeting"
+          },
+          {
+            "hot_technology": "Zoom",
+            "name": "Zoom"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "name": "FaceTime"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "FaceTime"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "name": "FaceTime"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233503,
+    "name": "Network conferencing software",
+    "onetcode": [
+      "43-4051.00",
+      "31-9092.00"
+    ],
+    "example": [
+      {
+        "43-4051.00": [
+          {
+            "name": "Active Data Online WebChat"
+          },
+          {
+            "name": "eStara Softphone"
+          },
+          {
+            "name": "Parature eRealtime"
+          },
+          {
+            "name": "Timpani Chat"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Microsoft Office SharePoint Server MOSS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232107,
+    "name": "Web page creation and editing software",
+    "onetcode": [
+      "43-4051.00",
+      "43-6014.00",
+      "41-3021.00",
+      "13-1161.01"
+    ],
+    "example": [
+      {
+        "43-4051.00": [
+          {
+            "hot_technology": "Facebook",
+            "name": "Facebook"
+          },
+          {
+            "name": "Google Sites"
+          },
+          {
+            "hot_technology": "LinkedIn",
+            "name": "LinkedIn"
+          },
+          {
+            "name": "Social media sites"
+          }
+        ]
+      },
+      {
+        "43-6014.00": [
+          {
+            "name": "Adobe Systems Adobe Dreamweaver"
+          },
+          {
+            "hot_technology": "Facebook",
+            "name": "Facebook"
+          },
+          {
+            "name": "Google Sites"
+          },
+          {
+            "hot_technology": "LinkedIn",
+            "name": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "hot_technology": "Facebook",
+            "name": "Facebook"
+          },
+          {
+            "hot_technology": "LinkedIn",
+            "name": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "name": "Adobe Systems Adobe Dreamweaver"
+          },
+          {
+            "hot_technology": "Facebook",
+            "name": "Facebook"
+          },
+          {
+            "hot_technology": "LinkedIn",
+            "name": "LinkedIn"
+          },
+          {
+            "hot_technology": "WordPress",
+            "name": "WordPress"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232304,
+    "name": "Data base management system software",
+    "onetcode": [
+      "43-6014.00",
+      "13-1111.00",
+      "15-1252.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "43-6014.00": [
+          {
+            "hot_technology": "Apache Cassandra",
+            "name": "Apache Cassandra"
+          },
+          {
+            "hot_technology": "Apache Hadoop",
+            "name": "Apache Hadoop"
+          },
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Teradata Database",
+            "name": "Teradata Database"
+          }
+        ]
+      },
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "MongoDB",
+            "name": "MongoDB"
+          },
+          {
+            "hot_technology": "Oracle PL/SQL",
+            "name": "Oracle PL/SQL"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Amazon DynamoDB",
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          },
+          {
+            "hot_technology": "Redis",
+            "name": "Redis"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "name": "Apache Solr"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "MongoDB",
+            "name": "MongoDB"
+          },
+          {
+            "hot_technology": "Oracle PL/SQL",
+            "name": "Oracle PL/SQL"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Amazon DynamoDB",
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "Oracle Database",
+            "name": "Oracle Database"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Amazon DynamoDB",
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "Redis",
+            "name": "Redis"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "Amazon DynamoDB",
+            "name": "Amazon DynamoDB"
+          },
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "Elasticsearch",
+            "name": "Elasticsearch"
+          },
+          {
+            "hot_technology": "Oracle PL/SQL",
+            "name": "Oracle PL/SQL"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Apache Hadoop",
+            "name": "Apache Hadoop"
+          },
+          {
+            "hot_technology": "Apache Hive",
+            "name": "Apache Hive"
+          },
+          {
+            "hot_technology": "NoSQL",
+            "name": "NoSQL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232104,
+    "name": "Word processing software",
+    "onetcode": [
+      "43-6014.00",
+      "13-1082.00",
+      "13-2011.00",
+      "13-2051.00",
+      "29-1141.00",
+      "31-1131.00",
+      "29-2052.00",
+      "31-9091.00",
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "43-6014.00": [
+          {
+            "name": "3M Post-it App"
+          },
+          {
+            "hot_technology": "Google Docs",
+            "name": "Google Docs"
+          },
+          {
+            "name": "Microsoft OneNote"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "name": "3M Post-it App"
+          },
+          {
+            "hot_technology": "Google Docs",
+            "name": "Google Docs"
+          },
+          {
+            "name": "Microsoft OneNote"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "hot_technology": "Google Docs",
+            "name": "Google Docs"
+          },
+          {
+            "name": "Microsoft OneNote"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "hot_technology": "Google Docs",
+            "name": "Google Docs"
+          },
+          {
+            "name": "Microsoft OneNote"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          },
+          {
+            "name": "Report generation software"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "hot_technology": "Google Docs",
+            "name": "Google Docs"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      },
+      {
+        "31-9091.00": []
+      },
+      {
+        "17-2071.00": [
+          {
+            "name": "Microsoft OneNote"
+          },
+          {
+            "hot_technology": "Microsoft Word",
+            "name": "Microsoft Word"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232102,
+    "name": "Graphics or photo imaging software",
+    "onetcode": [
+      "43-6014.00",
+      "13-1161.01",
+      "15-1232.00",
+      "17-2112.01",
+      "17-2141.00"
+    ],
+    "example": [
+      {
+        "43-6014.00": [
+          {
+            "hot_technology": "Adobe Systems Adobe Creative Cloud software",
+            "name": "Adobe Systems Adobe Creative Cloud software"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Illustrator",
+            "name": "Adobe Systems Adobe Illustrator"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Photoshop",
+            "name": "Adobe Systems Adobe Photoshop"
+          },
+          {
+            "name": "SmugMug Flickr"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "hot_technology": "Adobe Systems Adobe Photoshop",
+            "name": "Adobe Systems Adobe Photoshop"
+          },
+          {
+            "name": "JamBoard"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Adobe Systems Adobe Creative Cloud software",
+            "name": "Adobe Systems Adobe Creative Cloud software"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Illustrator",
+            "name": "Adobe Systems Adobe Illustrator"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Photoshop",
+            "name": "Adobe Systems Adobe Photoshop"
+          },
+          {
+            "hot_technology": "Trimble SketchUp Pro",
+            "name": "Trimble SketchUp Pro"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "name": "Adobe Systems Adobe Fireworks"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Illustrator",
+            "name": "Adobe Systems Adobe Illustrator"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Photoshop",
+            "name": "Adobe Systems Adobe Photoshop"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "name": "Adobe Systems Adobe Fireworks"
+          },
+          {
+            "hot_technology": "Adobe Systems Adobe Illustrator",
+            "name": "Adobe Systems Adobe Illustrator"
+          },
+          {
+            "name": "SmugMug Flickr"
+          },
+          {
+            "hot_technology": "Trimble SketchUp Pro",
+            "name": "Trimble SketchUp Pro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231604,
+    "name": "Financial analysis software",
+    "onetcode": [
+      "43-3031.00",
+      "13-2011.00",
+      "11-3031.00",
+      "41-3021.00",
+      "41-3031.00",
+      "13-2051.00",
+      "13-2041.00"
+    ],
+    "example": [
+      {
+        "43-3031.00": [
+          {
+            "name": "Delphi Technology"
+          },
+          {
+            "name": "Oracle E-Business Suite Financials"
+          },
+          {
+            "name": "RSM McGladrey Advanced Practice Solutions Paperless Audit"
+          },
+          {
+            "name": "RSM McGladrey Auditor Assistant"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "name": "Delphi Technology"
+          },
+          {
+            "name": "Oracle E-Business Suite Financials"
+          },
+          {
+            "name": "TopCAATs"
+          },
+          {
+            "name": "Tropics workers' compensation software"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "name": "ARES Corporation PRISM Project Estimator"
+          },
+          {
+            "name": "Credit management software"
+          },
+          {
+            "name": "Delphi Technology"
+          },
+          {
+            "name": "Oracle E-Business Suite Financials"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "Cygnus Software IncomeMax"
+          },
+          {
+            "name": "Insurance analysis software"
+          },
+          {
+            "name": "Insurance rating software"
+          },
+          {
+            "name": "Underwriting software"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "name": "Bloomberg Professional"
+          },
+          {
+            "name": "Oracle E-Business Suite Financials"
+          },
+          {
+            "name": "Triple Point Commodity XL"
+          },
+          {
+            "name": "Web-based trading systems"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "name": "Delphi Technology"
+          },
+          {
+            "name": "Moody's RiskCalc"
+          },
+          {
+            "name": "Oracle E-Business Suite Financials"
+          },
+          {
+            "name": "Wolfram Research Mathematica UnRisk Pricing Engine"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "name": "CGI-AMS Strata"
+          },
+          {
+            "name": "Experian Quest"
+          },
+          {
+            "name": "Fair Isaac Capstone Decision Manager"
+          },
+          {
+            "name": "Moody's KMV Risk Advisor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232606,
+    "name": "Compliance software",
+    "onetcode": [
+      "43-3031.00",
+      "13-2011.00"
+    ],
+    "example": [
+      {
+        "43-3031.00": [
+          {
+            "name": "Corporate Responsibility System Technologies Limited CRSTL Compliance Positioning System"
+          },
+          {
+            "name": "Financial compliance software"
+          },
+          {
+            "name": "Intrax ProcedureNet"
+          },
+          {
+            "name": "Sage EDP Payroll Tax"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "name": "Intrax ProcedureNet"
+          },
+          {
+            "name": "Sage HandiSoft HandiLedger"
+          },
+          {
+            "name": "Tax compliance property tax management software"
+          },
+          {
+            "name": "TrendTracker Compliance Solution"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232202,
+    "name": "Document management software",
+    "onetcode": [
+      "43-3031.00",
+      "13-2011.00",
+      "41-3021.00",
+      "13-2041.00",
+      "31-9092.00"
+    ],
+    "example": [
+      {
+        "43-3031.00": [
+          {
+            "hot_technology": "Adobe Systems Adobe Acrobat",
+            "name": "Adobe Systems Adobe Acrobat"
+          },
+          {
+            "name": "Document management system software"
+          },
+          {
+            "name": "OmniRIM Records Management Suite"
+          },
+          {
+            "name": "Records management software"
+          }
+        ]
+      },
+      {
+        "13-2011.00": [
+          {
+            "hot_technology": "Adobe Systems Adobe Acrobat",
+            "name": "Adobe Systems Adobe Acrobat"
+          },
+          {
+            "name": "Document management system software"
+          },
+          {
+            "name": "Iron Mountain Accutrac records management software"
+          },
+          {
+            "name": "Sage CPADocument Manager"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "name": "Allstar Software Systems Kofax"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "name": "Credit adjudication and lending management system CALMS"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "IDX Systems Patient Chart Tracking"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231605,
+    "name": "Time accounting software",
+    "onetcode": [
+      "43-3031.00"
+    ],
+    "example": [
+      {
+        "43-3031.00": [
+          {
+            "name": "ADP Pay eXpert"
+          },
+          {
+            "name": "HMS"
+          },
+          {
+            "name": "Payroll software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231507,
+    "name": "Project management software",
+    "onetcode": [
+      "43-3031.00",
+      "13-1082.00",
+      "15-1299.08"
+    ],
+    "example": [
+      {
+        "43-3031.00": [
+          {
+            "name": "HCSS HeavyBid"
+          },
+          {
+            "name": "HCSS HeavyJob"
+          },
+          {
+            "hot_technology": "Microsoft Project",
+            "name": "Microsoft Project"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "hot_technology": "Atlassian Confluence",
+            "name": "Atlassian Confluence"
+          },
+          {
+            "name": "Google Classroom"
+          },
+          {
+            "hot_technology": "Microsoft Teams",
+            "name": "Microsoft Teams"
+          },
+          {
+            "hot_technology": "Oracle Primavera Enterprise Project Portfolio Management",
+            "name": "Oracle Primavera Enterprise Project Portfolio Management"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Atlassian Confluence",
+            "name": "Atlassian Confluence"
+          },
+          {
+            "hot_technology": "Microsoft Project",
+            "name": "Microsoft Project"
+          },
+          {
+            "hot_technology": "Microsoft Teams",
+            "name": "Microsoft Teams"
+          },
+          {
+            "hot_technology": "Oracle Primavera Enterprise Project Portfolio Management",
+            "name": "Oracle Primavera Enterprise Project Portfolio Management"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232408,
+    "name": "Web platform development software",
+    "onetcode": [
+      "13-1111.00",
+      "15-1252.00",
+      "13-1161.01",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01"
+    ],
+    "example": [
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Apache Tomcat",
+            "name": "Apache Tomcat"
+          },
+          {
+            "hot_technology": "Google Angular",
+            "name": "Google Angular"
+          },
+          {
+            "hot_technology": "Microsoft ASP.NET",
+            "name": "Microsoft ASP.NET"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "hot_technology": "React",
+            "name": "React"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          },
+          {
+            "hot_technology": "Vue.js",
+            "name": "Vue.js"
+          }
+        ]
+      },
+      {
+        "13-1161.01": [
+          {
+            "hot_technology": "AJAX",
+            "name": "AJAX"
+          },
+          {
+            "hot_technology": "Cascading style sheets CSS",
+            "name": "Cascading style sheets CSS"
+          },
+          {
+            "hot_technology": "Microsoft ASP.NET",
+            "name": "Microsoft ASP.NET"
+          },
+          {
+            "hot_technology": "Oracle JavaServer Pages JSP",
+            "name": "Oracle JavaServer Pages JSP"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Django",
+            "name": "Django"
+          },
+          {
+            "hot_technology": "Google Angular",
+            "name": "Google Angular"
+          },
+          {
+            "hot_technology": "Microsoft ASP.NET",
+            "name": "Microsoft ASP.NET"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Django",
+            "name": "Django"
+          },
+          {
+            "hot_technology": "Google Angular",
+            "name": "Google Angular"
+          },
+          {
+            "hot_technology": "React",
+            "name": "React"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Django",
+            "name": "Django"
+          },
+          {
+            "hot_technology": "Google Angular",
+            "name": "Google Angular"
+          },
+          {
+            "hot_technology": "React",
+            "name": "React"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "Django",
+            "name": "Django"
+          },
+          {
+            "hot_technology": "Google Angular",
+            "name": "Google Angular"
+          },
+          {
+            "hot_technology": "Microsoft ASP.NET",
+            "name": "Microsoft ASP.NET"
+          },
+          {
+            "hot_technology": "Spring Framework",
+            "name": "Spring Framework"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "hot_technology": "AJAX",
+            "name": "AJAX"
+          },
+          {
+            "hot_technology": "Cascading style sheets CSS",
+            "name": "Cascading style sheets CSS"
+          },
+          {
+            "hot_technology": "Hypertext markup language HTML",
+            "name": "Hypertext markup language HTML"
+          },
+          {
+            "hot_technology": "JavaScript Object Notation JSON",
+            "name": "JavaScript Object Notation JSON"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232402,
+    "name": "Development environment software",
+    "onetcode": [
+      "13-1111.00",
+      "13-1082.00",
+      "11-3031.00",
+      "13-2041.00",
+      "15-1252.00",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "Apache Kafka",
+            "name": "Apache Kafka"
+          },
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Go",
+            "name": "Go"
+          },
+          {
+            "hot_technology": "Microsoft PowerShell",
+            "name": "Microsoft PowerShell"
+          }
+        ]
+      },
+      {
+        "13-1082.00": [
+          {
+            "hot_technology": "Microsoft Azure software",
+            "name": "Microsoft Azure software"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Go",
+            "name": "Go"
+          },
+          {
+            "hot_technology": "Oracle Java 2 Platform Enterprise Edition J2EE",
+            "name": "Oracle Java 2 Platform Enterprise Edition J2EE"
+          },
+          {
+            "hot_technology": "Oracle SQL Developer",
+            "name": "Oracle SQL Developer"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Apache Kafka",
+            "name": "Apache Kafka"
+          },
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Microsoft PowerShell",
+            "name": "Microsoft PowerShell"
+          },
+          {
+            "hot_technology": "Ruby",
+            "name": "Ruby"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Go",
+            "name": "Go"
+          },
+          {
+            "hot_technology": "Oracle Java 2 Platform Enterprise Edition J2EE",
+            "name": "Oracle Java 2 Platform Enterprise Edition J2EE"
+          },
+          {
+            "hot_technology": "Oracle SQL Developer",
+            "name": "Oracle SQL Developer"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Apache Kafka",
+            "name": "Apache Kafka"
+          },
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Go",
+            "name": "Go"
+          },
+          {
+            "hot_technology": "Oracle Java 2 Platform Enterprise Edition J2EE",
+            "name": "Oracle Java 2 Platform Enterprise Edition J2EE"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "Apache Kafka",
+            "name": "Apache Kafka"
+          },
+          {
+            "hot_technology": "Apache Maven",
+            "name": "Apache Maven"
+          },
+          {
+            "hot_technology": "Go",
+            "name": "Go"
+          },
+          {
+            "hot_technology": "Microsoft PowerShell",
+            "name": "Microsoft PowerShell"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "name": "Adobe Systems Adobe Creative Suite"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "name": "National Instruments LabVIEW"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          },
+          {
+            "hot_technology": "Microsoft Visual Studio",
+            "name": "Microsoft Visual Studio"
+          },
+          {
+            "name": "National Instruments LabVIEW"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "hot_technology": "C",
+            "name": "C"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "name": "National Instruments LabVIEW"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "hot_technology": "Microsoft Visual Basic",
+            "name": "Microsoft Visual Basic"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          },
+          {
+            "name": "National Instruments LabVIEW"
+          },
+          {
+            "name": "Verilog"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "hot_technology": "C",
+            "name": "C"
+          },
+          {
+            "hot_technology": "Eclipse IDE",
+            "name": "Eclipse IDE"
+          },
+          {
+            "hot_technology": "Microsoft Visual Basic for Applications VBA",
+            "name": "Microsoft Visual Basic for Applications VBA"
+          },
+          {
+            "hot_technology": "Microsoft Visual Studio",
+            "name": "Microsoft Visual Studio"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Microsoft Azure software",
+            "name": "Microsoft Azure software"
+          },
+          {
+            "name": "Scikit-learn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232405,
+    "name": "Object or component oriented development software",
+    "onetcode": [
+      "13-1111.00",
+      "41-3031.00",
+      "15-1252.00",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "15-1212.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2141.00",
+      "17-2071.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "13-1111.00": [
+          {
+            "hot_technology": "C#",
+            "name": "C#"
+          },
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Scala",
+            "name": "Scala"
+          },
+          {
+            "hot_technology": "Swift",
+            "name": "Swift"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "Oracle Java",
+            "name": "Oracle Java"
+          },
+          {
+            "hot_technology": "Python",
+            "name": "Python"
+          },
+          {
+            "hot_technology": "R",
+            "name": "R"
+          }
+        ]
+      },
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Apache Spark",
+            "name": "Apache Spark"
+          },
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Objective C",
+            "name": "Objective C"
+          },
+          {
+            "hot_technology": "TypeScript",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "C#",
+            "name": "C#"
+          },
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Objective C",
+            "name": "Objective C"
+          },
+          {
+            "hot_technology": "Swift",
+            "name": "Swift"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Objective C",
+            "name": "Objective C"
+          },
+          {
+            "hot_technology": "Scala",
+            "name": "Scala"
+          },
+          {
+            "hot_technology": "Swift",
+            "name": "Swift"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Objective C",
+            "name": "Objective C"
+          },
+          {
+            "hot_technology": "Scala",
+            "name": "Scala"
+          },
+          {
+            "hot_technology": "Swift",
+            "name": "Swift"
+          }
+        ]
+      },
+      {
+        "15-1212.00": [
+          {
+            "hot_technology": "C#",
+            "name": "C#"
+          },
+          {
+            "hot_technology": "Objective C",
+            "name": "Objective C"
+          },
+          {
+            "hot_technology": "Scala",
+            "name": "Scala"
+          },
+          {
+            "hot_technology": "Swift",
+            "name": "Swift"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "jQuery",
+            "name": "jQuery"
+          },
+          {
+            "hot_technology": "Oracle Java",
+            "name": "Oracle Java"
+          },
+          {
+            "hot_technology": "R",
+            "name": "R"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "Python",
+            "name": "Python"
+          },
+          {
+            "hot_technology": "R",
+            "name": "R"
+          },
+          {
+            "name": "Sun Microsystems Java"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "Perl",
+            "name": "Perl"
+          },
+          {
+            "hot_technology": "Python",
+            "name": "Python"
+          },
+          {
+            "hot_technology": "R",
+            "name": "R"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "hot_technology": "C#",
+            "name": "C#"
+          },
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "Perl",
+            "name": "Perl"
+          },
+          {
+            "hot_technology": "Python",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "C++",
+            "name": "C++"
+          },
+          {
+            "hot_technology": "Oracle Java",
+            "name": "Oracle Java"
+          },
+          {
+            "hot_technology": "R",
+            "name": "R"
+          },
+          {
+            "hot_technology": "Scala",
+            "name": "Scala"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232106,
+    "name": "Presentation software",
+    "onetcode": [
+      "13-1082.00",
+      "11-3031.00",
+      "41-3031.00",
+      "13-2041.00",
+      "29-2052.00",
+      "17-2112.01",
+      "17-2112.00"
+    ],
+    "example": [
+      {
+        "13-1082.00": [
+          {
+            "name": "Apple Keynote"
+          },
+          {
+            "name": "Google Slides"
+          },
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          },
+          {
+            "name": "Poll Everywhere"
+          }
+        ]
+      },
+      {
+        "11-3031.00": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      },
+      {
+        "41-3031.00": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "Microsoft PowerPoint",
+            "name": "Microsoft PowerPoint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231603,
+    "name": "Tax preparation software",
+    "onetcode": [
+      "13-2011.00"
+    ],
+    "example": [
+      {
+        "13-2011.00": [
+          {
+            "name": "ATX Total Tax Office"
+          },
+          {
+            "name": "Intuit TurboTax"
+          },
+          {
+            "name": "NewPortWave Year End Solutions"
+          },
+          {
+            "name": "Thomson GoSystem Tax"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231505,
+    "name": "Human resources software",
+    "onetcode": [
+      "11-3031.00",
+      "29-1141.00"
+    ],
+    "example": [
+      {
+        "11-3031.00": [
+          {
+            "name": "ADP Workforce Now"
+          },
+          {
+            "name": "Human resource information system (HRIS)"
+          },
+          {
+            "name": "Human resource management software HRMS"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "name": "Human resource management software HRMS"
+          },
+          {
+            "name": "Oracle Taleo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232110,
+    "name": "Spreadsheet software",
+    "onetcode": [
+      "11-3031.00",
+      "41-3021.00",
+      "13-2051.00",
+      "13-2041.00",
+      "31-1121.00",
+      "29-1141.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "11-3031.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          },
+          {
+            "name": "Moody's KMV FAMAS"
+          }
+        ]
+      },
+      {
+        "41-3021.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "13-2051.00": [
+          {
+            "name": "Apple AppleWorks"
+          },
+          {
+            "name": "Corel QuattroPro"
+          },
+          {
+            "name": "IBM Lotus 1-2-3"
+          },
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "13-2041.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "29-1141.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Microsoft Excel",
+            "name": "Microsoft Excel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232702,
+    "name": "Desktop communications software",
+    "onetcode": [
+      "41-3031.00",
+      "15-1232.00",
+      "17-2112.03"
+    ],
+    "example": [
+      {
+        "41-3031.00": [
+          {
+            "name": "ADP/Vantra VOLTS"
+          },
+          {
+            "name": "Imagine Software Imagine Trading System"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "name": "ParentSquare"
+          },
+          {
+            "name": "Remote control software"
+          },
+          {
+            "name": "Skype"
+          },
+          {
+            "name": "Stac Software ReachOut"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "Eko"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232309,
+    "name": "Information retrieval or search software",
+    "onetcode": [
+      "13-2051.00"
+    ],
+    "example": [
+      {
+        "13-2051.00": [
+          {
+            "name": "dailyVest Investment Personalization Platform"
+          },
+          {
+            "name": "LexisNexis"
+          },
+          {
+            "name": "TradeTools Monthly U.S. Economic Database"
+          },
+          {
+            "name": "Ward Systems Group NeuroShell Trader"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232201,
+    "name": "Content workflow software",
+    "onetcode": [
+      "13-2041.00"
+    ],
+    "example": [
+      {
+        "13-2041.00": [
+          {
+            "name": "Equifax Application Engine"
+          },
+          {
+            "name": "Experian Transact SM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231513,
+    "name": "Office suite software",
+    "onetcode": [
+      "13-2041.00",
+      "31-1121.00",
+      "31-1131.00",
+      "31-9092.00",
+      "29-2052.00",
+      "31-9091.00"
+    ],
+    "example": [
+      {
+        "13-2041.00": [
+          {
+            "name": "Experian Strategy Management"
+          },
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      },
+      {
+        "31-1121.00": [
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      },
+      {
+        "31-1131.00": [
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Business software applications"
+          },
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      },
+      {
+        "29-2052.00": [
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "hot_technology": "Microsoft Office software",
+            "name": "Microsoft Office software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232301,
+    "name": "Categorization or classification software",
+    "onetcode": [
+      "29-1141.00",
+      "31-9092.00"
+    ],
+    "example": [
+      {
+        "29-1141.00": [
+          {
+            "name": "Diagnostic and procedural coding software"
+          }
+        ]
+      },
+      {
+        "31-9092.00": [
+          {
+            "name": "Diagnostic and procedural coding software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232705,
+    "name": "Internet browser software",
+    "onetcode": [
+      "31-1131.00",
+      "31-9091.00",
+      "17-2112.01",
+      "17-2112.03"
+    ],
+    "example": [
+      {
+        "31-1131.00": [
+          {
+            "name": "Web browser software"
+          }
+        ]
+      },
+      {
+        "31-9091.00": [
+          {
+            "name": "Web browser software"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "name": "Apple Safari"
+          },
+          {
+            "name": "Microsoft Internet Explorer"
+          },
+          {
+            "name": "Mozilla Firefox"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "Microsoft Internet Explorer"
+          },
+          {
+            "name": "Web browser software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231510,
+    "name": "Label making software",
+    "onetcode": [
+      "29-2052.00"
+    ],
+    "example": [
+      {
+        "29-2052.00": [
+          {
+            "name": "Label-making software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232406,
+    "name": "Program testing software",
+    "onetcode": [
+      "15-1252.00",
+      "15-1211.00",
+      "17-2112.01",
+      "17-2112.00",
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "15-1252.00": [
+          {
+            "name": "Fault testing software"
+          },
+          {
+            "name": "Hewlett Packard LoadRunner"
+          },
+          {
+            "hot_technology": "JUnit",
+            "name": "JUnit"
+          },
+          {
+            "hot_technology": "Selenium",
+            "name": "Selenium"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "name": "Functional testing software"
+          },
+          {
+            "name": "Hewlett Packard LoadRunner"
+          },
+          {
+            "hot_technology": "JUnit",
+            "name": "JUnit"
+          },
+          {
+            "hot_technology": "Selenium",
+            "name": "Selenium"
+          }
+        ]
+      },
+      {
+        "17-2112.01": [
+          {
+            "name": "Debugging software"
+          },
+          {
+            "name": "TechSmith Morae"
+          },
+          {
+            "name": "Usability testing software"
+          },
+          {
+            "name": "User interface design software"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "name": "Hewlett Packard LoadRunner"
+          },
+          {
+            "hot_technology": "JUnit",
+            "name": "JUnit"
+          },
+          {
+            "name": "Logic programming software"
+          },
+          {
+            "name": "User interface design software"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "name": "Debugging software"
+          },
+          {
+            "name": "Defect tracking software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232701,
+    "name": "Application server software",
+    "onetcode": [
+      "15-1252.00",
+      "15-1299.08",
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Atlassian Bitbucket",
+            "name": "Atlassian Bitbucket"
+          },
+          {
+            "hot_technology": "GitLab",
+            "name": "GitLab"
+          },
+          {
+            "hot_technology": "Kubernetes",
+            "name": "Kubernetes"
+          },
+          {
+            "hot_technology": "Red Hat OpenShift",
+            "name": "Red Hat OpenShift"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Atlassian Bitbucket",
+            "name": "Atlassian Bitbucket"
+          },
+          {
+            "hot_technology": "GitLab",
+            "name": "GitLab"
+          },
+          {
+            "hot_technology": "Kubernetes",
+            "name": "Kubernetes"
+          },
+          {
+            "hot_technology": "Red Hat OpenShift",
+            "name": "Red Hat OpenShift"
+          }
+        ]
+      },
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Docker",
+            "name": "Docker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232401,
+    "name": "Configuration management software",
+    "onetcode": [
+      "15-1252.00",
+      "15-1232.00",
+      "15-1211.00",
+      "15-1299.08",
+      "17-2141.00"
+    ],
+    "example": [
+      {
+        "15-1252.00": [
+          {
+            "hot_technology": "Chef",
+            "name": "Chef"
+          },
+          {
+            "hot_technology": "IBM Terraform",
+            "name": "IBM Terraform"
+          },
+          {
+            "name": "Perforce Helix software"
+          },
+          {
+            "hot_technology": "Puppet",
+            "name": "Puppet"
+          }
+        ]
+      },
+      {
+        "15-1232.00": [
+          {
+            "hot_technology": "Chef",
+            "name": "Chef"
+          },
+          {
+            "name": "Patch management software"
+          },
+          {
+            "name": "Perforce Helix software"
+          },
+          {
+            "hot_technology": "Puppet",
+            "name": "Puppet"
+          }
+        ]
+      },
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Chef",
+            "name": "Chef"
+          },
+          {
+            "name": "HyperSpace"
+          },
+          {
+            "name": "Perforce Helix software"
+          },
+          {
+            "hot_technology": "Puppet",
+            "name": "Puppet"
+          }
+        ]
+      },
+      {
+        "15-1299.08": [
+          {
+            "hot_technology": "Chef",
+            "name": "Chef"
+          },
+          {
+            "hot_technology": "IBM Terraform",
+            "name": "IBM Terraform"
+          },
+          {
+            "name": "Perforce Helix software"
+          },
+          {
+            "hot_technology": "Puppet",
+            "name": "Puppet"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "hot_technology": "Chef",
+            "name": "Chef"
+          },
+          {
+            "name": "Perforce Helix software"
+          },
+          {
+            "hot_technology": "Puppet",
+            "name": "Puppet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231514,
+    "name": "Sales and marketing software",
+    "onetcode": [
+      "13-1161.01"
+    ],
+    "example": [
+      {
+        "13-1161.01": [
+          {
+            "name": "Google Ads"
+          },
+          {
+            "hot_technology": "HubSpot software",
+            "name": "HubSpot software"
+          },
+          {
+            "hot_technology": "Marketo Marketing Automation",
+            "name": "Marketo Marketing Automation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233504,
+    "name": "Instant messaging software",
+    "onetcode": [
+      "13-1161.01",
+      "17-2141.00"
+    ],
+    "example": [
+      {
+        "13-1161.01": [
+          {
+            "name": "Twitter"
+          },
+          {
+            "name": "WhatsApp"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "name": "Blink"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232403,
+    "name": "Enterprise application integration software",
+    "onetcode": [
+      "15-1211.00"
+    ],
+    "example": [
+      {
+        "15-1211.00": [
+          {
+            "hot_technology": "Atlassian Bamboo",
+            "name": "Atlassian Bamboo"
+          },
+          {
+            "hot_technology": "Extensible markup language XML",
+            "name": "Extensible markup language XML"
+          },
+          {
+            "name": "IBM InfoSphere DataStage"
+          },
+          {
+            "hot_technology": "Microsoft SQL Server Integration Services SSIS",
+            "name": "Microsoft SQL Server Integration Services SSIS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233205,
+    "name": "Transaction security and virus protection software",
+    "onetcode": [
+      "15-1212.00"
+    ],
+    "example": [
+      {
+        "15-1212.00": [
+          {
+            "name": "HP WebInspect"
+          },
+          {
+            "name": "NortonLifeLock cybersecurity software"
+          },
+          {
+            "name": "Portswigger BurP Suite"
+          },
+          {
+            "name": "Stack smashing protection SSP software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232801,
+    "name": "Network monitoring software",
+    "onetcode": [
+      "15-1212.00"
+    ],
+    "example": [
+      {
+        "15-1212.00": [
+          {
+            "name": "Nagios"
+          },
+          {
+            "name": "Sniffer Investigator"
+          },
+          {
+            "name": "Symantec Blue Coat Data Loss Prevention"
+          },
+          {
+            "name": "Wireshark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233204,
+    "name": "Network security and virtual private network VPN equipment software",
+    "onetcode": [
+      "15-1212.00"
+    ],
+    "example": [
+      {
+        "15-1212.00": [
+          {
+            "name": "Imperva SecureSphere"
+          },
+          {
+            "name": "IpFilter"
+          },
+          {
+            "name": "Palo Alto Networks Next-Generation Security Platform"
+          },
+          {
+            "name": "Trend Micro TippingPoint"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43233203,
+    "name": "Network security or virtual private network VPN management software",
+    "onetcode": [
+      "15-1212.00"
+    ],
+    "example": [
+      {
+        "15-1212.00": [
+          {
+            "name": "HP Fortify"
+          },
+          {
+            "name": "Intrusion prevention system IPS"
+          },
+          {
+            "name": "Network and system vulnerability assessment software"
+          },
+          {
+            "name": "Websense Data Loss Prevention"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232404,
+    "name": "Graphical user interface development software",
+    "onetcode": [
+      "17-2112.01"
+    ],
+    "example": [
+      {
+        "17-2112.01": [
+          {
+            "name": "Altia Design"
+          },
+          {
+            "name": "Graphical user interfaces GUI"
+          },
+          {
+            "name": "Seeing Machines faceLAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232604,
+    "name": "Computer aided design CAD software",
+    "onetcode": [
+      "17-2112.01",
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "17-2112.01": [
+          {
+            "hot_technology": "Autodesk AutoCAD",
+            "name": "Autodesk AutoCAD"
+          },
+          {
+            "name": "Dassault Systemes CATIA"
+          },
+          {
+            "hot_technology": "Dassault Systemes SolidWorks",
+            "name": "Dassault Systemes SolidWorks"
+          }
+        ]
+      },
+      {
+        "17-2112.00": [
+          {
+            "hot_technology": "Autodesk AutoCAD",
+            "name": "Autodesk AutoCAD"
+          },
+          {
+            "hot_technology": "Bentley MicroStation",
+            "name": "Bentley MicroStation"
+          },
+          {
+            "name": "Dassault Systemes CATIA"
+          },
+          {
+            "hot_technology": "Dassault Systemes SolidWorks",
+            "name": "Dassault Systemes SolidWorks"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "hot_technology": "Autodesk AutoCAD",
+            "name": "Autodesk AutoCAD"
+          },
+          {
+            "name": "Dassault Systemes CATIA"
+          },
+          {
+            "hot_technology": "Dassault Systemes SolidWorks",
+            "name": "Dassault Systemes SolidWorks"
+          },
+          {
+            "name": "PTC Creo Parametric"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "hot_technology": "Autodesk AutoCAD Civil 3D",
+            "name": "Autodesk AutoCAD Civil 3D"
+          },
+          {
+            "hot_technology": "Autodesk Revit",
+            "name": "Autodesk Revit"
+          },
+          {
+            "hot_technology": "Bentley MicroStation",
+            "name": "Bentley MicroStation"
+          },
+          {
+            "hot_technology": "Dassault Systemes SolidWorks",
+            "name": "Dassault Systemes SolidWorks"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "hot_technology": "Autodesk AutoCAD Civil 3D",
+            "name": "Autodesk AutoCAD Civil 3D"
+          },
+          {
+            "hot_technology": "Autodesk Revit",
+            "name": "Autodesk Revit"
+          },
+          {
+            "hot_technology": "Bentley MicroStation",
+            "name": "Bentley MicroStation"
+          },
+          {
+            "hot_technology": "Dassault Systemes SolidWorks",
+            "name": "Dassault Systemes SolidWorks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232608,
+    "name": "Industrial control software",
+    "onetcode": [
+      "17-2112.00",
+      "17-2112.03",
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "17-2112.00": [
+          {
+            "name": "Allen Bradley PanelView"
+          },
+          {
+            "name": "Human machine interface HMI software"
+          },
+          {
+            "name": "Nupro CastView"
+          },
+          {
+            "name": "Supervisory control and data acquisition SCADA software"
+          }
+        ]
+      },
+      {
+        "17-2112.03": [
+          {
+            "name": "Computer numerical control CNC software"
+          },
+          {
+            "name": "Programmable logic controller PLC software"
+          },
+          {
+            "name": "Supervisory control and data acquisition SCADA software"
+          }
+        ]
+      },
+      {
+        "17-2141.00": [
+          {
+            "name": "Computer numerical control CNC software"
+          },
+          {
+            "name": "Human machine interface HMI software"
+          },
+          {
+            "name": "Supervisory control and data acquisition SCADA software"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "name": "AVEVA InTouch HMI"
+          },
+          {
+            "name": "Programmable logic controller PLC software"
+          },
+          {
+            "name": "Supervisory control and data acquisition SCADA software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43231506,
+    "name": "Materials requirements planning logistics and supply chain software",
+    "onetcode": [
+      "17-2112.00"
+    ],
+    "example": [
+      {
+        "17-2112.00": [
+          {
+            "name": "Materials requirement planning MRP software"
+          },
+          {
+            "name": "Production scheduling and planning software"
+          },
+          {
+            "name": "Supply chain capacity planning software"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232612,
+    "name": "Computer aided manufacturing CAM software",
+    "onetcode": [
+      "17-2112.03"
+    ],
+    "example": [
+      {
+        "17-2112.03": [
+          {
+            "name": "CNC Mastercam"
+          },
+          {
+            "name": "Geometric CAMWorks"
+          },
+          {
+            "name": "Siemens NX"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232510,
+    "name": "Geographic information system",
+    "onetcode": [
+      "17-2141.00",
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "17-2141.00": [
+          {
+            "hot_technology": "ESRI ArcGIS software",
+            "name": "ESRI ArcGIS software"
+          },
+          {
+            "name": "Geographic information system GIS software"
+          }
+        ]
+      },
+      {
+        "17-2071.00": [
+          {
+            "hot_technology": "ESRI ArcGIS software",
+            "name": "ESRI ArcGIS software"
+          },
+          {
+            "name": "ETAP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232407,
+    "name": "Requirements analysis and system architecture software",
+    "onetcode": [
+      "17-2071.00"
+    ],
+    "example": [
+      {
+        "17-2071.00": [
+          {
+            "name": "Requirements management software"
+          },
+          {
+            "name": "Unified modeling language UML"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43232203,
+    "name": "File versioning software",
+    "onetcode": [
+      "15-2051.00"
+    ],
+    "example": [
+      {
+        "15-2051.00": [
+          {
+            "hot_technology": "Git",
+            "name": "Git"
+          }
+        ]
+      }
+    ]
+  }
+]
